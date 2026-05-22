@@ -1,0 +1,111 @@
+======================================================================
+RQ1: Depth Effect Within Each Ontology
+Dep. var: overconfidence gap (logprob)
+Model: gap ~ depth + log_pageviews
+======================================================================
+  wordnet    mistral-7b         β=-0.0253  p=0.0000 ***  R²=0.0312
+  wordnet    qwen2.5-7b         β=-0.0111  p=0.0005 ***  R²=0.0065
+  wordnet    qwen2.5-3b         β=-0.0023  p=0.4411  ns  R²=0.0003
+  wordnet    phi-2              β=-0.0228  p=0.0000 ***  R²=0.0289
+  wordnet    gpt-5.4-nano       β=-0.0266  p=0.0000 ***  R²=0.0464
+  wordnet    gpt-5.4-mini       β=-0.0170  p=0.0000 ***  R²=0.0145
+  mesh       mistral-7b         β=-0.0101  p=0.1066  ns  R²=0.0011
+  mesh       qwen2.5-7b         β=-0.0030  p=0.6231  ns  R²=0.0001
+  mesh       qwen2.5-3b         β=-0.0029  p=0.6264  ns  R²=0.0001
+  mesh       phi-2              β=+0.0345  p=0.0000 ***  R²=0.0140
+  mesh       gpt-5.4-nano       β=-0.0138  p=0.0248   *  R²=0.0021
+  mesh       gpt-5.4-mini       β=-0.0046  p=0.4505  ns  R²=0.0002
+  go         mistral-7b         β=-0.0112  p=0.1478  ns  R²=0.0009
+  go         qwen2.5-7b         β=-0.0121  p=0.1069  ns  R²=0.0014
+  go         qwen2.5-3b         β=-0.0065  p=0.3420  ns  R²=0.0004
+  go         phi-2              β=+0.0071  p=0.2809  ns  R²=0.0005
+  go         gpt-5.4-nano       β=-0.0075  p=0.3097  ns  R²=0.0010
+  go         gpt-5.4-mini       β=-0.0084  p=0.2352  ns  R²=0.0010
+
+
+======================================================================
+RQ2: Overall ECE by Ontology (Domain Familiarity Effect)
+======================================================================
+  wordnet    mistral-7b          ECE=0.4726  acc=0.860  conf=0.465
+  wordnet    qwen2.5-7b          ECE=0.4936  acc=0.840  conf=0.383
+  wordnet    qwen2.5-3b          ECE=0.5035  acc=0.728  conf=0.234
+  wordnet    phi-2               ECE=0.3282  acc=0.817  conf=0.530
+  wordnet    gpt-5.4-nano        ECE=0.4282  acc=0.840  conf=0.470
+  wordnet    gpt-5.4-mini        ECE=0.4669  acc=0.880  conf=0.431
+  mesh       mistral-7b          ECE=0.4908  acc=0.916  conf=0.457
+  mesh       qwen2.5-7b          ECE=0.4983  acc=0.882  conf=0.401
+  mesh       qwen2.5-3b          ECE=0.5113  acc=0.749  conf=0.255
+  mesh       phi-2               ECE=0.3031  acc=0.802  conf=0.649
+  mesh       gpt-5.4-nano        ECE=0.4809  acc=0.875  conf=0.407
+  mesh       gpt-5.4-mini        ECE=0.4998  acc=0.904  conf=0.416
+  go         mistral-7b          ECE=0.4662  acc=0.878  conf=0.521
+  go         qwen2.5-7b          ECE=0.4755  acc=0.898  conf=0.492
+  go         qwen2.5-3b          ECE=0.5073  acc=0.777  conf=0.289
+  go         phi-2               ECE=0.2904  acc=0.585  conf=0.761
+  go         gpt-5.4-nano        ECE=0.4375  acc=0.879  conf=0.515
+  go         gpt-5.4-mini        ECE=0.4677  acc=0.929  conf=0.483
+
+
+======================================================================
+RQ3: Slope Universality — depth × ontology interaction
+H0: slope is consistent across ontologies
+======================================================================
+
+── mistral-7b ──
+  Interaction F-test p = 0.0195 (slopes differ)
+    wordnet     β(depth)=-0.0253  p=0.0000 ***
+    mesh        β(depth)=-0.0101  p=0.1066  ns
+    go          β(depth)=-0.0112  p=0.1478  ns
+
+── qwen2.5-7b ──
+  Interaction F-test p = 0.4339 (slopes consistent ✓)
+    wordnet     β(depth)=-0.0111  p=0.0005 ***
+    mesh        β(depth)=-0.0030  p=0.6231  ns
+    go          β(depth)=-0.0121  p=0.1069  ns
+
+── qwen2.5-3b ──
+  Interaction F-test p = 0.8520 (slopes consistent ✓)
+    wordnet     β(depth)=-0.0023  p=0.4411  ns
+    mesh        β(depth)=-0.0029  p=0.6264  ns
+    go          β(depth)=-0.0065  p=0.3420  ns
+
+── phi-2 ──
+  Interaction F-test p = 0.0000 (slopes differ)
+    wordnet     β(depth)=-0.0228  p=0.0000 ***
+    mesh        β(depth)=+0.0345  p=0.0000 ***
+    go          β(depth)=+0.0071  p=0.2809  ns
+
+── gpt-5.4-nano ──
+  Interaction F-test p = 0.0020 (slopes differ)
+    wordnet     β(depth)=-0.0266  p=0.0000 ***
+    mesh        β(depth)=-0.0138  p=0.0248   *
+    go          β(depth)=-0.0075  p=0.3097  ns
+
+── gpt-5.4-mini ──
+  Interaction F-test p = 0.0862 (slopes consistent ✓)
+    wordnet     β(depth)=-0.0170  p=0.0000 ***
+    mesh        β(depth)=-0.0046  p=0.4505  ns
+    go          β(depth)=-0.0084  p=0.2352  ns
+
+
+======================================================================
+RQ4: Calibration Performance across Ontologies
+======================================================================
+  wordnet    mistral-7b          Uncal=0.4781  Global=0.3434  Depth=0.3435  Best=Global
+  wordnet    qwen2.5-7b          Uncal=0.5085  Global=0.4004  Depth=0.4004  Best=Depth
+  wordnet    qwen2.5-3b          Uncal=0.5033  Global=0.3713  Depth=0.3713  Best=Global
+  wordnet    phi-2               Uncal=0.3309  Global=0.3145  Depth=0.3083  Best=Depth
+  wordnet    gpt-5.4-nano        Uncal=0.4275  Global=0.3565  Depth=0.3558  Best=Depth
+  wordnet    gpt-5.4-mini        Uncal=0.4819  Global=0.4097  Depth=0.4097  Best=Depth
+  mesh       mistral-7b          Uncal=0.5022  Global=0.3974  Depth=0.3974  Best=Depth
+  mesh       qwen2.5-7b          Uncal=0.5065  Global=0.4552  Depth=0.4552  Best=Depth
+  mesh       qwen2.5-3b          Uncal=0.5145  Global=0.4066  Depth=0.4066  Best=Global
+  mesh       phi-2               Uncal=0.3011  Global=0.2937  Depth=0.2766  Best=Depth
+  mesh       gpt-5.4-nano        Uncal=0.4706  Global=0.4058  Depth=0.4058  Best=Global
+  mesh       gpt-5.4-mini        Uncal=0.4939  Global=0.4701  Depth=0.4701  Best=Global
+  go         mistral-7b          Uncal=0.4736  Global=0.3515  Depth=0.3508  Best=Depth
+  go         qwen2.5-7b          Uncal=0.4839  Global=0.3967  Depth=0.3967  Best=Global
+  go         qwen2.5-3b          Uncal=0.5078  Global=0.4479  Depth=0.4479  Best=Global
+  go         phi-2               Uncal=0.2950  Global=0.1777  Depth=0.1786  Best=Global
+  go         gpt-5.4-nano        Uncal=0.4336  Global=0.3778  Depth=0.3778  Best=Global
+  go         gpt-5.4-mini        Uncal=0.4452  Global=0.4326  Depth=0.4326  Best=Global

@@ -1,0 +1,201 @@
+============================================================
+회귀 분석 결과
+============================================================
+
+── 모델: mistral-7b (n=2400) ──
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           overconf_gap   R-squared:                       0.031
+Model:                            OLS   Adj. R-squared:                  0.030
+Method:                 Least Squares   F-statistic:                     38.59
+Date:                Wed, 20 May 2026   Prob (F-statistic):           3.18e-17
+Time:                        22:27:33   Log-Likelihood:                -2029.5
+No. Observations:                2400   AIC:                             4065.
+Df Residuals:                    2397   BIC:                             4082.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+Intercept        -0.2087      0.029     -7.195      0.000      -0.266      -0.152
+depth            -0.0253      0.003     -7.560      0.000      -0.032      -0.019
+log_pageviews   200.7303     71.356      2.813      0.005      60.805     340.655
+==============================================================================
+Omnibus:                      583.626   Durbin-Watson:                   2.020
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              123.603
+Skew:                           0.233   Prob(JB):                     1.44e-27
+Kurtosis:                       1.990   Cond. No.                     5.29e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.29e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+  depth 계수: -0.0253 ***  (p=0.0000)
+  log_pageviews 계수: 200.7303  (p=0.0049)
+  R²: 0.031
+
+── 모델: qwen2.5-7b (n=2400) ──
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           overconf_gap   R-squared:                       0.006
+Model:                            OLS   Adj. R-squared:                  0.006
+Method:                 Least Squares   F-statistic:                     7.840
+Date:                Wed, 20 May 2026   Prob (F-statistic):           0.000404
+Time:                        22:27:33   Log-Likelihood:                -1910.0
+No. Observations:                2400   AIC:                             3826.
+Df Residuals:                    2397   BIC:                             3843.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+Intercept        -0.3744      0.028    -13.569      0.000      -0.428      -0.320
+depth            -0.0111      0.003     -3.492      0.000      -0.017      -0.005
+log_pageviews    74.9522     67.888      1.104      0.270     -58.173     208.077
+==============================================================================
+Omnibus:                     5708.842   Durbin-Watson:                   1.957
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              182.730
+Skew:                           0.203   Prob(JB):                     2.09e-40
+Kurtosis:                       1.710   Cond. No.                     5.29e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.29e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+  depth 계수: -0.0111 ***  (p=0.0005)
+  log_pageviews 계수: 74.9522  (p=0.2697)
+  R²: 0.006
+
+── 모델: qwen2.5-3b (n=2400) ──
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           overconf_gap   R-squared:                       0.000
+Model:                            OLS   Adj. R-squared:                 -0.000
+Method:                 Least Squares   F-statistic:                    0.4179
+Date:                Wed, 20 May 2026   Prob (F-statistic):              0.658
+Time:                        22:27:33   Log-Likelihood:                -1777.3
+No. Observations:                2400   AIC:                             3561.
+Df Residuals:                    2397   BIC:                             3578.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+Intercept        -0.4778      0.026    -18.301      0.000      -0.529      -0.427
+depth            -0.0023      0.003     -0.770      0.441      -0.008       0.004
+log_pageviews    20.6724     64.236      0.322      0.748    -105.292     146.637
+==============================================================================
+Omnibus:                    11206.010   Durbin-Watson:                   1.955
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              284.580
+Skew:                           0.110   Prob(JB):                     1.60e-62
+Kurtosis:                       1.328   Cond. No.                     5.29e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.29e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+  depth 계수: -0.0023 ns  (p=0.4411)
+  log_pageviews 계수: 20.6724  (p=0.7476)
+  R²: 0.000
+
+── 모델: phi-2 (n=2400) ──
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           overconf_gap   R-squared:                       0.029
+Model:                            OLS   Adj. R-squared:                  0.028
+Method:                 Least Squares   F-statistic:                     35.69
+Date:                Wed, 20 May 2026   Prob (F-statistic):           5.32e-16
+Time:                        22:27:33   Log-Likelihood:                -1748.4
+No. Observations:                2400   AIC:                             3503.
+Df Residuals:                    2397   BIC:                             3520.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+Intercept        -0.1167      0.026     -4.523      0.000      -0.167      -0.066
+depth            -0.0228      0.003     -7.657      0.000      -0.029      -0.017
+log_pageviews   121.0721     63.468      1.908      0.057      -3.386     245.531
+==============================================================================
+Omnibus:                      190.120   Durbin-Watson:                   2.074
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              108.799
+Skew:                           0.378   Prob(JB):                     2.37e-24
+Kurtosis:                       2.281   Cond. No.                     5.29e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.29e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+  depth 계수: -0.0228 ***  (p=0.0000)
+  log_pageviews 계수: 121.0721  (p=0.0566)
+  R²: 0.029
+
+── 모델: gpt-5.4-nano (n=2400) ──
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           overconf_gap   R-squared:                       0.046
+Model:                            OLS   Adj. R-squared:                  0.046
+Method:                 Least Squares   F-statistic:                     58.35
+Date:                Wed, 20 May 2026   Prob (F-statistic):           1.80e-25
+Time:                        22:27:33   Log-Likelihood:                -1969.2
+No. Observations:                2400   AIC:                             3944.
+Df Residuals:                    2397   BIC:                             3962.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+Intercept        -0.1794      0.028     -6.343      0.000      -0.235      -0.124
+depth            -0.0266      0.003     -8.176      0.000      -0.033      -0.020
+log_pageviews   362.8050     69.585      5.214      0.000     226.353     499.257
+==============================================================================
+Omnibus:                      579.238   Durbin-Watson:                   1.979
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              124.243
+Skew:                           0.238   Prob(JB):                     1.05e-27
+Kurtosis:                       1.992   Cond. No.                     5.29e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.29e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+  depth 계수: -0.0266 ***  (p=0.0000)
+  log_pageviews 계수: 362.8050  (p=0.0000)
+  R²: 0.046
+
+── 모델: gpt-5.4-mini (n=2400) ──
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           overconf_gap   R-squared:                       0.014
+Model:                            OLS   Adj. R-squared:                  0.014
+Method:                 Least Squares   F-statistic:                     17.61
+Date:                Wed, 20 May 2026   Prob (F-statistic):           2.54e-08
+Time:                        22:27:33   Log-Likelihood:                -1900.7
+No. Observations:                2400   AIC:                             3807.
+Df Residuals:                    2397   BIC:                             3825.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+Intercept        -0.3214      0.027    -11.694      0.000      -0.375      -0.268
+depth            -0.0170      0.003     -5.380      0.000      -0.023      -0.011
+log_pageviews    90.4417     67.628      1.337      0.181     -42.173     223.057
+==============================================================================
+Omnibus:                     6749.708   Durbin-Watson:                   2.035
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              183.161
+Skew:                           0.191   Prob(JB):                     1.69e-40
+Kurtosis:                       1.702   Cond. No.                     5.29e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.29e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+  depth 계수: -0.0170 ***  (p=0.0000)
+  log_pageviews 계수: 90.4417  (p=0.1812)
+  R²: 0.014

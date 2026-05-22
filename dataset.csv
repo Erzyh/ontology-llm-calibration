@@ -1,0 +1,1201 @@
+synset,hypernym,depth,level,entity,entity_hypernym,wiki_title,pageviews,neg_hypernym,domain
+causality.n.01,relation.n.01,3,1,causality,relation,causality,8.32e-07,group,Abstraction
+jimdandy.n.02,thing.n.08,2,1,jimdandy,thing,jimdandy,1.07e-07,psychological feature,Other
+freshener.n.01,thing.n.08,2,1,freshener,thing,freshener,3.24e-07,attribute,Other
+vagabond.n.01,object.n.01,3,1,vagabond,object,vagabond,6.03e-07,relation,Other
+locus.n.03,set.n.02,3,1,locus,set,locus,1.51e-06,measure,Abstraction
+sainthood.n.01,group.n.01,3,1,sainthood,group,sainthood,2.75e-07,measure,Abstraction
+encapsulation.n.02,process.n.06,3,1,encapsulation,process,encapsulation,4.07e-07,measure,Other
+interrelation.n.01,relation.n.01,3,1,interrelation,relation,interrelation,1.1e-07,thing,Abstraction
+reciprocality.n.01,relation.n.01,3,1,reciprocality,relation,reciprocality,1.1e-06,matter,Abstraction
+chelation.n.01,process.n.06,3,1,chelation,process,chelation,1.48e-07,group,Other
+stinker.n.02,thing.n.08,2,1,stinker,thing,stinker,2.75e-07,process,Other
+subgroup.n.01,group.n.01,3,1,subgroup,group,subgroup,1.2e-06,measure,Abstraction
+otherworld.n.01,abstraction.n.06,2,1,otherworld,abstraction,otherworld,1.74e-07,group,Abstraction
+commemorative.n.01,object.n.01,3,1,commemorative,object,commemorative,1.7e-06,process,Other
+common_denominator.n.02,attribute.n.02,3,1,common denominator,attribute,common denominator,1.34e-06,process,Abstraction
+magnetization.n.01,measure.n.02,3,1,magnetization,measure,magnetization,2.75e-07,group,Abstraction
+halogen.n.01,group.n.01,3,1,halogen,group,halogen,6.76e-07,object,Abstraction
+emanation.n.01,matter.n.03,3,1,emanation,matter,emanation,1.51e-07,process,Other
+varna.n.02,group.n.01,3,1,varna,group,varna,6.03e-07,attribute,Abstraction
+ethos.n.01,attribute.n.02,3,1,ethos,attribute,ethos,2.09e-06,entity,Abstraction
+je_ne_sais_quoi.n.01,object.n.01,3,1,je ne sais quoi,object,je ne sais quoi,1.24e-07,physical entity,Other
+whacker.n.01,thing.n.08,2,1,whacker,thing,whacker,5.01e-07,set,Other
+sensitization.n.02,process.n.06,3,1,sensitization,process,sensitization,2.45e-07,object,Other
+actinoid.n.01,group.n.01,3,1,actinoid,group,actinoid,8.13e-08,measure,Abstraction
+mandelbrot_set.n.01,set.n.02,3,1,mandelbrot set,set,mandelbrot set,1.1e-07,group,Abstraction
+floater.n.07,object.n.01,3,1,floater,object,floater,3.89e-07,group,Other
+uncheerfulness.n.02,attribute.n.02,3,1,uncheerfulness,attribute,uncheerfulness,1e-09,communication,Abstraction
+cordage.n.01,measure.n.02,3,1,cordage,measure,cordage,8.71e-08,relation,Abstraction
+shiner.n.02,object.n.01,3,1,shiner,object,shiner,4.27e-07,abstraction,Other
+eidos.n.01,attribute.n.02,3,1,eidos,attribute,eidos,8.91e-08,communication,Abstraction
+straggle.n.01,group.n.01,3,1,straggle,group,straggle,2.75e-08,process,Abstraction
+didacticism.n.01,communication.n.02,3,1,didacticism,communication,didacticism,3.63e-08,group,Abstraction
+antimatter.n.01,matter.n.03,3,1,antimatter,matter,antimatter,4.37e-07,abstraction,Other
+paring.n.02,object.n.01,3,1,paring,object,paring,3.47e-07,group,Other
+solute.n.01,matter.n.03,3,1,solute,matter,solute,3.72e-07,psychological feature,Other
+irreversible_process.n.01,process.n.06,3,1,irreversible process,process,irreversible process,1.89e-06,causal agent,Other
+ballast.n.03,attribute.n.02,3,1,ballast,attribute,ballast,1.45e-06,object,Abstraction
+paralanguage.n.01,communication.n.02,3,1,paralanguage,communication,paralanguage,1.35e-08,set,Abstraction
+octane_number.n.01,measure.n.02,3,1,octane number,measure,octane number,1.2e-06,attribute,Abstraction
+degeneration.n.01,process.n.06,3,1,degeneration,process,degeneration,1.32e-06,thing,Other
+mathematical_space.n.01,set.n.02,3,1,mathematical space,set,mathematical space,1.03e-05,process,Abstraction
+keepsake.n.01,object.n.01,3,1,keepsake,object,keepsake,6.61e-06,communication,Other
+cheerfulness.n.01,attribute.n.02,3,1,cheerfulness,attribute,cheerfulness,1.45e-05,psychological feature,Abstraction
+indefinite_quantity.n.01,measure.n.02,3,1,indefinite quantity,measure,indefinite quantity,2.11e-06,attribute,Abstraction
+abstraction.n.06,entity.n.01,1,1,abstraction,entity,abstraction,6.74e-06,attribute,Abstraction
+security_blanket.n.01,thing.n.08,2,1,security blanket,thing,security blanket,1.09e-05,process,Other
+physical_entity.n.01,entity.n.01,1,1,physical entity,entity,physical entity,1.14e-05,group,Other
+intersection.n.03,set.n.02,3,1,intersection,set,intersection,7.59e-06,process,Abstraction
+mathematical_relation.n.01,relation.n.01,3,1,mathematical relation,relation,mathematical relation,7.13e-06,group,Abstraction
+makeweight.n.01,object.n.01,3,1,makeweight,object,makeweight,2.63e-06,relation,Other
+snake.n.05,object.n.01,3,1,snake,object,snake,1.7e-05,group,Other
+phenomenon.n.01,process.n.06,3,1,phenomenon,process,phenomenon,1.35e-05,object,Other
+temporal_relation.n.01,relation.n.01,3,1,temporal relation,relation,temporal relation,3.53e-06,group,Abstraction
+discard.n.01,object.n.01,3,1,discard,object,discard,2.34e-06,causal agent,Other
+linguistic_relation.n.01,relation.n.01,3,1,linguistic relation,relation,linguistic relation,4.1e-06,causal agent,Abstraction
+interval.n.02,set.n.02,3,1,interval,set,interval,5.89e-06,physical entity,Abstraction
+charm.n.03,object.n.01,3,1,charm,object,charm,1.32e-05,abstraction,Other
+fluid.n.02,matter.n.03,3,1,fluid,matter,fluid,1.66e-05,relation,Other
+quantum.n.02,measure.n.02,3,1,quantum,measure,quantum,1.17e-05,physical entity,Abstraction
+catalyst.n.02,causal_agent.n.01,3,1,catalyst,causal agent,catalyst,5.75e-06,measure,Other
+substance.n.07,matter.n.03,3,1,substance,matter,substance,1.7e-05,process,Substance
+system_of_measurement.n.01,measure.n.02,3,1,system of measurement,measure,system of measurement,1.09e-05,causal agent,Abstraction
+relative_quantity.n.01,measure.n.02,3,1,relative quantity,measure,relative quantity,8.46e-06,entity,Abstraction
+attribute.n.02,abstraction.n.06,2,1,attribute,abstraction,attribute,5.89e-06,causal agent,Abstraction
+trait.n.01,attribute.n.02,3,1,trait,attribute,trait,4.9e-06,group,Abstraction
+supernatural.n.01,causal_agent.n.01,3,1,supernatural,causal agent,supernatural,7.76e-06,object,Other
+logical_relation.n.01,relation.n.01,3,1,logical relation,relation,logical relation,8.24e-06,thing,Abstraction
+subset.n.01,set.n.02,3,1,subset,set,subset,3.39e-06,physical entity,Abstraction
+variation.n.07,process.n.06,3,1,variation,process,variation,1.2e-05,communication,Other
+variable.n.01,thing.n.12,3,1,variable,thing,variable,1.32e-05,group,Other
+neighbor.n.02,object.n.01,3,1,neighbor,object,neighbor,1.29e-05,causal agent,Other
+magnitude_relation.n.01,relation.n.01,3,1,magnitude relation,relation,magnitude relation,6.71e-06,causal agent,Abstraction
+definite_quantity.n.01,measure.n.02,3,1,definite quantity,measure,definite quantity,3.98e-06,psychological feature,Abstraction
+electron_shell.n.01,group.n.01,3,1,electron shell,group,electron shell,5.21e-06,measure,Abstraction
+iteration.n.02,process.n.06,3,1,iteration,process,iteration,2.45e-06,group,Other
+diagonal.n.04,set.n.02,3,1,diagonal,set,diagonal,2.29e-06,object,Abstraction
+curio.n.01,object.n.01,3,1,curio,object,curio,9.33e-06,causal agent,Other
+time_interval.n.01,measure.n.02,3,1,time interval,measure,time interval,5.89e-06,relation,Abstraction
+substance.n.04,physical_entity.n.01,2,1,substance,physical entity,substance,1.7e-05,relation,Other
+residue.n.01,matter.n.03,3,1,residue,matter,residue,3.39e-06,attribute,Other
+comparison.n.02,relation.n.01,3,1,comparison,relation,comparison,3.24e-05,attribute,Abstraction
+social_relation.n.01,relation.n.01,3,1,social relation,relation,social relation,1.89e-05,process,Abstraction
+depth.n.06,attribute.n.02,3,1,depth,attribute,depth,3.55e-05,object,Abstraction
+possession.n.02,relation.n.01,3,1,possession,relation,possession,2.4e-05,group,Abstraction
+proof.n.03,measure.n.02,3,1,proof,measure,proof,5.01e-05,object,Abstraction
+processing.n.01,process.n.06,3,1,processing,process,processing,2.88e-05,relation,Other
+volume.n.05,measure.n.02,3,1,volume,measure,volume,5.75e-05,relation,Abstraction
+solid.n.01,matter.n.03,3,1,solid,matter,solid,5.37e-05,object,Other
+communication.n.02,abstraction.n.06,2,1,communication,abstraction,communication,4.79e-05,attribute,Abstraction
+industrial_process.n.01,process.n.06,3,1,industrial process,process,industrial process,4e-05,thing,Other
+business_relation.n.01,relation.n.01,3,1,business relation,relation,business relation,1.93e-05,group,Abstraction
+volume.n.01,measure.n.02,3,1,volume,measure,volume,5.75e-05,physical entity,Abstraction
+arrangement.n.02,group.n.01,3,1,arrangement,group,arrangement,1.78e-05,measure,Abstraction
+inheritance.n.04,attribute.n.02,3,1,inheritance,attribute,inheritance,2.29e-05,measure,Abstraction
+operator.n.02,causal_agent.n.01,3,1,operator,causal agent,operator,2.09e-05,relation,Other
+destiny.n.02,causal_agent.n.01,3,1,destiny,causal agent,destiny,2.29e-05,thing,Other
+sediment.n.01,matter.n.03,3,1,sediment,matter,sediment,1.74e-05,set,Other
+relation.n.01,abstraction.n.06,2,1,relation,abstraction,relation,2.04e-05,process,Abstraction
+photography.n.02,process.n.06,3,1,photography,process,photography,2.82e-05,attribute,Other
+web.n.01,object.n.01,3,1,web,object,web,5.5e-05,matter,Other
+biological_group.n.01,group.n.01,3,1,biological group,group,biological group,1.94e-05,attribute,Abstraction
+rare_earth.n.01,group.n.01,3,1,rare earth,group,rare earth,3.89e-05,abstraction,Abstraction
+geological_formation.n.01,object.n.01,3,1,geological formation,object,geological formation,3.09e-05,process,Other
+personality.n.01,attribute.n.02,3,1,personality,attribute,personality,3.55e-05,set,Abstraction
+kingdom.n.06,group.n.01,3,1,kingdom,group,kingdom,4.17e-05,relation,Abstraction
+circuit.n.05,group.n.01,3,1,circuit,group,circuit,2.95e-05,object,Abstraction
+moon.n.02,object.n.01,3,1,moon,object,moon,5.01e-05,attribute,Other
+ownership.n.01,relation.n.01,3,1,ownership,relation,ownership,2.51e-05,communication,Abstraction
+danger.n.03,causal_agent.n.01,3,1,danger,causal agent,danger,3.89e-05,process,Other
+radical.n.04,measure.n.02,3,1,radical,measure,radical,2.14e-05,group,Abstraction
+visual_communication.n.01,communication.n.02,3,1,visual communication,communication,visual communication,1.9e-05,attribute,Abstraction
+opposition.n.02,relation.n.01,3,1,opposition,relation,opposition,3.72e-05,causal agent,Abstraction
+connection.n.01,relation.n.01,3,1,connection,relation,connection,5.75e-05,measure,Abstraction
+object.n.01,physical_entity.n.01,2,1,object,physical entity,object,3.63e-05,communication,Other
+ribbon.n.01,object.n.01,3,1,ribbon,object,ribbon,2.75e-05,group,Other
+triviality.n.03,object.n.01,3,1,triviality,object,triviality,4.34e-05,causal agent,Other
+vital_principle.n.01,causal_agent.n.01,3,1,vital principle,causal agent,vital principle,2.13e-05,attribute,Other
+document.n.03,communication.n.02,3,1,document,communication,document,3.16e-05,attribute,Abstraction
+universal_set.n.01,set.n.02,3,1,universal set,set,universal set,2.86e-05,communication,Abstraction
+execution.n.03,process.n.06,3,1,execution,process,execution,1.95e-05,entity,Other
+sign.n.02,communication.n.02,3,1,sign,communication,sign,0.00012,object,Abstraction
+cognition.n.01,psychological_feature.n.01,3,1,cognition,psychological feature,cognition,9.12e-05,communication,Abstraction
+growth.n.07,object.n.01,3,1,growth,object,growth,0.000107,measure,Other
+character.n.09,attribute.n.02,3,1,character,attribute,character,0.000129,thing,Abstraction
+necessity.n.02,thing.n.12,3,1,necessity,thing,necessity,8.13e-05,group,Other
+time_unit.n.01,measure.n.02,3,1,time unit,measure,time unit,8.52e-05,abstraction,Abstraction
+agent.n.01,causal_agent.n.01,3,1,agent,causal agent,agent,6.46e-05,group,Other
+property.n.02,attribute.n.02,3,1,property,attribute,property,0.000129,matter,Abstraction
+human_nature.n.01,attribute.n.02,3,1,human nature,attribute,human nature,6.69e-05,group,Abstraction
+population.n.02,group.n.01,3,1,population,group,population,0.000102,measure,Abstraction
+expressive_style.n.01,communication.n.02,3,1,expressive style,communication,expressive style,0.000129,group,Abstraction
+location.n.01,object.n.01,3,1,location,object,location,7.24e-05,group,Other
+remains.n.01,object.n.01,3,1,remains,object,remains,6.31e-05,physical entity,Other
+association.n.06,relation.n.01,3,1,association,relation,association,0.000102,communication,Abstraction
+kinship.n.02,relation.n.01,3,1,kinship,relation,kinship,0.000141,object,Abstraction
+association.n.08,group.n.01,3,1,association,group,association,0.000102,set,Abstraction
+relationship.n.01,relation.n.01,3,1,relationship,relation,relationship,0.000141,measure,Abstraction
+image.n.07,set.n.02,3,1,image,set,image,0.000132,measure,Abstraction
+ice.n.02,object.n.01,3,1,ice,object,ice,0.0001,physical entity,Other
+quality.n.01,attribute.n.02,3,1,quality,attribute,quality,0.000129,physical entity,Abstraction
+dark_matter.n.01,matter.n.03,3,1,dark matter,matter,dark matter,7.53e-05,attribute,Other
+reservoir.n.04,thing.n.12,3,1,reservoir,thing,reservoir,0.000141,set,Other
+function.n.04,relation.n.01,3,1,function,relation,function,6.03e-05,process,Abstraction
+message.n.01,communication.n.02,3,1,message,communication,message,0.0001,process,Abstraction
+wall.n.02,object.n.01,3,1,wall,object,wall,0.00011,group,Other
+property.n.05,object.n.01,3,1,property,object,property,0.000129,psychological feature,Other
+catch.n.04,object.n.01,3,1,catch,object,catch,7.41e-05,abstraction,Other
+unit.n.05,thing.n.12,3,1,unit,thing,unit,8.91e-05,process,Other
+voice.n.06,communication.n.02,3,1,voice,communication,voice,0.000117,object,Abstraction
+engine.n.02,causal_agent.n.01,3,1,engine,causal agent,engine,6.92e-05,physical entity,Other
+economic_process.n.01,process.n.06,3,1,economic process,process,economic process,7.44e-05,matter,Other
+nature.n.02,causal_agent.n.01,3,1,nature,causal agent,nature,9.55e-05,abstraction,Other
+subject.n.02,thing.n.12,3,1,subject,thing,subject,0.0001,process,Other
+collection.n.01,group.n.01,3,1,collection,group,collection,9.12e-05,communication,Abstraction
+finding.n.03,object.n.01,3,1,finding,object,finding,7.08e-05,set,Other
+value.n.03,measure.n.02,3,1,value,measure,value,0.000141,causal agent,Abstraction
+human_process.n.01,process.n.06,3,1,human process,process,human process,0.0001,object,Other
+increase.n.03,process.n.06,3,1,increase,process,increase,0.00012,group,Other
+language.n.01,communication.n.02,3,1,language,communication,language,0.000126,matter,Abstraction
+voice.n.02,communication.n.02,3,1,voice,communication,voice,0.000117,measure,Abstraction
+body_of_water.n.01,thing.n.12,3,1,body of water,thing,body of water,0.000331,process,Other
+thing.n.09,attribute.n.02,3,1,thing,attribute,thing,0.000525,group,Abstraction
+point.n.06,measure.n.02,3,1,point,measure,point,0.000347,group,Abstraction
+part.n.01,relation.n.01,3,1,part,relation,part,0.000603,communication,Abstraction
+thing.n.12,physical_entity.n.01,2,1,thing,physical entity,thing,0.000525,attribute,Other
+part.n.03,thing.n.12,3,1,part,thing,part,0.000603,matter,Other
+change.n.02,relation.n.01,3,1,change,relation,change,0.000347,entity,Abstraction
+event.n.01,psychological_feature.n.01,3,1,event,psychological feature,event,0.000151,object,Abstraction
+part.n.02,object.n.01,3,1,part,object,part,0.000603,group,Other
+citizenry.n.01,group.n.01,3,1,citizenry,group,citizenry,0.00178,attribute,Abstraction
+causal_agent.n.01,physical_entity.n.01,2,1,causal agent,physical entity,causal agent,0.000224,relation,Other
+development.n.02,process.n.06,3,1,development,process,development,0.000204,relation,Other
+field.n.10,set.n.02,3,1,field,set,field,0.000174,object,Abstraction
+system.n.02,group.n.01,3,1,system,group,system,0.000363,set,Abstraction
+world.n.08,group.n.01,3,1,world,group,world,0.000776,attribute,Animal
+motivation.n.01,psychological_feature.n.01,3,1,motivation,psychological feature,motivation,0.000933,object,Abstraction
+operation.n.08,process.n.06,3,1,operation,process,operation,0.000145,causal agent,Other
+position.n.07,relation.n.01,3,1,position,relation,position,0.000162,process,Abstraction
+thing.n.08,entity.n.01,1,1,thing,entity,thing,0.000525,group,Other
+change.n.06,thing.n.08,2,1,change,thing,change,0.000347,relation,Other
+multitude.n.03,group.n.01,3,1,multitude,group,multitude,0.00178,thing,Abstraction
+power.n.05,causal_agent.n.01,3,1,power,causal agent,power,0.000331,object,Other
+head.n.17,object.n.01,3,1,head,object,head,0.000324,process,Other
+probability.n.01,measure.n.02,3,1,probability,measure,probability,0.000182,group,Abstraction
+land.n.02,object.n.01,3,1,land,object,land,0.000166,set,Other
+matter.n.03,physical_entity.n.01,2,1,matter,physical entity,matter,0.00024,group,Other
+system.n.03,matter.n.03,3,1,system,matter,system,0.000363,abstraction,Other
+space.n.01,attribute.n.02,3,1,space,attribute,space,0.00017,object,Abstraction
+playing_period.n.01,measure.n.02,3,1,playing period,measure,playing period,0.000407,group,Abstraction
+state.n.02,attribute.n.02,3,1,state,attribute,state,0.000603,relation,Abstraction
+group.n.03,set.n.02,3,1,group,set,group,0.000372,attribute,Abstraction
+first_cause.n.01,causal_agent.n.01,3,1,first cause,causal agent,first cause,0.000191,relation,Other
+group.n.01,abstraction.n.06,2,1,group,abstraction,group,0.000372,causal agent,Abstraction
+natural_process.n.01,process.n.06,3,1,natural process,process,natural process,0.000178,communication,Other
+set.n.02,abstraction.n.06,2,1,set,abstraction,set,0.000389,matter,Abstraction
+land.n.04,object.n.01,3,1,land,object,land,0.000166,relation,Other
+time.n.05,attribute.n.02,3,1,time,attribute,time,0.00195,communication,Abstraction
+film.n.04,object.n.01,3,1,film,object,film,0.000158,thing,Other
+community.n.06,group.n.01,3,1,community,group,community,0.000219,causal agent,Abstraction
+whole.n.02,object.n.01,3,1,whole,object,whole,0.000288,relation,Other
+insufflation.n.01,blowing.n.01,5,2,insufflation,blowing,insufflation,4.17e-08,disabled,Other
+cynodontia.n.01,division.n.07,5,2,cynodontia,division,cynodontia,1e-09,partner,Abstraction
+hydrocolloid.n.01,substance.n.07,4,2,hydrocolloid,substance,hydrocolloid,3.55e-08,creator,Substance
+cosmographer.n.01,scientist.n.01,5,2,cosmographer,scientist,cosmographer,1.1e-08,irregularity,Person
+curtsy.n.01,gesture.n.02,5,2,curtsy,gesture,curtsy,1.12e-07,geological process,Abstraction
+allyl.n.01,group.n.02,5,2,allyl,group,allyl,1.23e-07,ability,Other
+asserter.n.01,communicator.n.01,5,2,asserter,communicator,asserter,1.23e-07,appearance,Person
+seeder.n.01,person.n.01,4,2,seeder,person,seeder,6.61e-08,geological process,Person
+pleonasm.n.01,verboseness.n.01,5,2,pleonasm,verboseness,pleonasm,1.95e-08,appearance,Abstraction
+inamorata.n.01,lover.n.01,5,2,inamorata,lover,inamorata,2.63e-08,group,Person
+thermogram.n.01,graph.n.01,5,2,thermogram,graph,thermogram,2.45e-08,statement,Abstraction
+dichromat.n.01,color-blind_person.n.01,5,2,dichromat,color-blind person,dichromat,1e-09,distress signal,Person
+tacker.n.01,worker.n.01,5,2,tacker,worker,tacker,3.39e-08,inlet,Person
+radiogram.n.01,message.n.01,4,2,radiogram,message,radiogram,5.25e-08,intractability,Abstraction
+homogenate.n.01,material.n.01,5,2,homogenate,material,homogenate,2.75e-08,expert,Abstraction
+shoddiness.n.01,worthlessness.n.01,5,2,shoddiness,worthlessness,shoddiness,1.26e-08,chemical process,Abstraction
+troponymy.n.02,collection.n.01,4,2,troponymy,collection,troponymy,1e-09,graph,Abstraction
+episteme.n.01,cognition.n.01,4,2,episteme,cognition,episteme,4.68e-08,body of water,Abstraction
+nonresistance.n.01,group_action.n.01,5,2,nonresistance,group action,nonresistance,2.14e-08,animal group,Abstraction
+unsteadiness.n.02,irregularity.n.02,5,2,unsteadiness,irregularity,unsteadiness,3.72e-08,part,Abstraction
+ungradable_opposition.n.01,opposition.n.02,4,2,ungradable opposition,opposition,ungradable opposition,1e-09,wit,Abstraction
+copartner.n.01,partner.n.03,5,2,copartner,partner,copartner,1e-09,demeanor,Person
+withdrawer.n.04,contestant.n.01,5,2,withdrawer,contestant,withdrawer,1e-09,statement,Person
+shiftiness.n.02,changeableness.n.01,5,2,shiftiness,changeableness,shiftiness,1.35e-08,content,Abstraction
+fluorocarbon_plastic.n.01,plastic.n.01,5,2,fluorocarbon plastic,plastic,fluorocarbon plastic,6.44e-08,ability,Other
+quantifiability.n.01,quality.n.01,4,2,quantifiability,quality,quantifiability,2.14e-08,magnitude,Abstraction
+ecobabble.n.01,jargon.n.03,5,2,ecobabble,jargon,ecobabble,1e-09,quality,Abstraction
+trickiness.n.02,complexity.n.01,5,2,trickiness,complexity,trickiness,1.86e-08,taxonomic group,Abstraction
+analyticity.n.01,property.n.02,4,2,analyticity,property,analyticity,1.62e-08,people,Abstraction
+anatoxin.n.01,antigen.n.01,5,2,anatoxin,antigen,anatoxin,4.17e-08,adult,Substance
+balkiness.n.01,intractability.n.01,5,2,balkiness,intractability,balkiness,1e-09,collection,Abstraction
+incredibility.n.01,quality.n.01,4,2,incredibility,quality,incredibility,1.29e-08,cosmic time,Abstraction
+femtosecond.n.01,time_unit.n.01,4,2,femtosecond,time unit,femtosecond,1.26e-07,gesture,Abstraction
+rudiment.n.02,body_part.n.01,5,2,rudiment,body part,rudiment,1.86e-08,inaccuracy,Other
+malabsorption.n.01,assimilation.n.03,5,2,malabsorption,assimilation,malabsorption,1.26e-07,time period,Other
+venation.n.01,arrangement.n.02,4,2,venation,arrangement,venation,7.94e-08,lover,Abstraction
+subtrahend.n.01,number.n.02,5,2,subtrahend,number,subtrahend,1e-09,ethical motive,Abstraction
+effacement.n.01,organic_process.n.01,4,2,effacement,organic process,effacement,5.89e-08,formation,Other
+transamination.n.02,chemical_process.n.01,5,2,transamination,chemical process,transamination,1.38e-08,antigen,Other
+indisputability.n.01,certainty.n.02,5,2,indisputability,certainty,indisputability,1e-09,assortment,Abstraction
+deliberation.n.05,thoughtfulness.n.03,5,2,deliberation,thoughtfulness,deliberation,1.15e-06,case,Abstraction
+theorist.n.01,intellectual.n.01,5,2,theorist,intellectual,theorist,1.45e-06,number,Person
+revenant.n.01,person.n.01,4,2,revenant,person,revenant,2.95e-07,music genre,Person
+beater.n.01,worker.n.01,5,2,beater,worker,beater,1.23e-06,number,Person
+adventurer.n.01,person.n.01,4,2,adventurer,person,adventurer,1.51e-06,creator,Person
+tortuosity.n.01,distorted_shape.n.01,5,2,tortuosity,distorted shape,tortuosity,7.08e-07,assortment,Abstraction
+particulate.n.01,material.n.01,5,2,particulate,material,particulate,1.1e-06,worthlessness,Abstraction
+reliever.n.02,person.n.01,4,2,reliever,person,reliever,1.26e-06,number,Person
+mystique.n.01,air.n.03,5,2,mystique,air,mystique,1e-06,natural language,Abstraction
+choreographer.n.01,creator.n.02,5,2,choreographer,creator,choreographer,1.35e-06,material,Person
+looseness.n.03,inaccuracy.n.01,5,2,looseness,inaccuracy,looseness,1.41e-07,plastic,Abstraction
+glaciation.n.02,geological_process.n.01,5,2,glaciation,geological process,glaciation,3.16e-07,material,Other
+norse_mythology.n.01,mythology.n.01,5,2,norse mythology,mythology,norse mythology,1.22e-06,biological group,Abstraction
+sorption.n.01,natural_process.n.01,4,2,sorption,natural process,sorption,1.78e-07,professional relation,Other
+sampler.n.03,assortment.n.01,5,2,sampler,assortment,sampler,1.26e-06,writing,Abstraction
+equinox.n.01,cosmic_time.n.01,5,2,equinox,cosmic time,equinox,1.05e-06,adult,Abstraction
+mummification.n.01,condition.n.01,5,2,mummification,condition,mummification,1.62e-07,offer,Abstraction
+unpopularity.n.01,quality.n.01,4,2,unpopularity,quality,unpopularity,4.17e-07,geological process,Abstraction
+laxness.n.02,condition.n.01,5,2,laxness,condition,laxness,1.66e-07,person,Abstraction
+cipher.n.01,message.n.01,4,2,cipher,message,cipher,1.32e-06,person,Abstraction
+clade.n.01,biological_group.n.01,4,2,clade,biological group,clade,2.34e-07,connection,Abstraction
+genotype.n.01,biological_group.n.01,4,2,genotype,biological group,genotype,7.41e-07,magnitude,Abstraction
+effeminacy.n.01,femininity.n.01,5,2,effeminacy,femininity,effeminacy,9.77e-07,foundation,Abstraction
+relict.n.02,geological_formation.n.01,4,2,relict,geological formation,relict,1.45e-07,artifact,Other
+angiogenesis.n.01,growth.n.01,5,2,angiogenesis,growth,angiogenesis,3.16e-07,time period,Other
+waterway.n.01,body_of_water.n.01,4,2,waterway,body of water,waterway,1.51e-06,person,Other
+zap.n.01,event.n.01,4,2,zap,event,zap,9.12e-07,movement,Abstraction
+practicality.n.01,utility.n.02,5,2,practicality,utility,practicality,9.12e-07,cosmic time,Abstraction
+methylene_group.n.01,group.n.02,5,2,methylene group,group,methylene group,2.29e-07,national,Other
+disbandment.n.01,group_action.n.01,5,2,disbandment,group action,disbandment,1.45e-07,information,Abstraction
+awfulness.n.01,unpleasantness.n.02,5,2,awfulness,unpleasantness,awfulness,1.66e-07,color-blind person,Abstraction
+floater.n.02,debt_instrument.n.01,5,2,floater,debt instrument,floater,3.89e-07,natural language,Abstraction
+intelligibility.n.01,comprehensibility.n.01,5,2,intelligibility,comprehensibility,intelligibility,1.95e-07,changeableness,Abstraction
+mayday.n.01,distress_signal.n.01,5,2,mayday,distress signal,mayday,8.13e-07,person,Abstraction
+eccentricity.n.02,ratio.n.01,5,2,eccentricity,ratio,eccentricity,6.92e-07,message,Abstraction
+heirloom.n.01,property.n.01,5,2,heirloom,property,heirloom,9.55e-07,mythology,Abstraction
+cardinality.n.01,number.n.02,5,2,cardinality,number,cardinality,2.04e-07,part,Abstraction
+calcium_hypochlorite.n.01,bleaching_agent.n.01,5,2,calcium hypochlorite,bleaching agent,calcium hypochlorite,1.45e-07,victim,Substance
+jeu_d'esprit.n.01,wit.n.01,5,2,jeu d'esprit,wit,jeu d'esprit,1.43e-07,artifact,Abstraction
+concatenation.n.02,connection.n.01,4,2,concatenation,connection,concatenation,1.86e-07,person,Abstraction
+status_quo.n.01,situation.n.01,5,2,status quo,situation,status quo,5.57e-06,inhabitant,Abstraction
+troy.n.01,system_of_weights.n.01,5,2,troy,system of weights,troy,8.91e-06,strength,Abstraction
+heresy.n.02,content.n.05,5,2,heresy,content,heresy,2.24e-06,cosmic time,Abstraction
+stain.n.01,appearance.n.01,5,2,stain,appearance,stain,5.01e-06,strength,Abstraction
+manners.n.01,demeanor.n.01,5,2,manners,demeanor,manners,6.76e-06,creator,Abstraction
+planner.n.01,person.n.01,4,2,planner,person,planner,3.39e-06,native,Person
+territorial_waters.n.01,body_of_water.n.01,4,2,territorial waters,body of water,territorial waters,6.31e-06,statement,Other
+shank.n.06,part.n.02,4,2,shank,part,shank,9.12e-06,gradient,Other
+distrust.n.02,trait.n.01,4,2,distrust,trait,distrust,2.51e-06,movement,Abstraction
+vein.n.02,expressive_style.n.01,4,2,vein,expressive style,vein,5.89e-06,trait,Abstraction
+convoy.n.01,procession.n.02,5,2,convoy,procession,convoy,5.13e-06,writing,Abstraction
+acquaintance.n.02,relationship.n.03,5,2,acquaintance,relationship,acquaintance,3.55e-06,division,Abstraction
+multiplication.n.02,increase.n.03,4,2,multiplication,increase,multiplication,1.82e-06,opposition,Other
+small_indefinite_quantity.n.01,indefinite_quantity.n.01,4,2,small indefinite quantity,indefinite quantity,small indefinite quantity,2.5e-06,distorted shape,Abstraction
+cutoff.n.01,limit.n.06,5,2,cutoff,limit,cutoff,1.62e-06,formation,Abstraction
+mineral_kingdom.n.01,kingdom.n.06,4,2,mineral kingdom,kingdom,mineral kingdom,8.52e-06,body part,Abstraction
+millionaire.n.01,rich_person.n.01,5,2,millionaire,rich person,millionaire,5.37e-06,bugle call,Person
+understatement.n.01,statement.n.01,5,2,understatement,statement,understatement,2.29e-06,expert,Abstraction
+vulnerability.n.02,weakness.n.03,5,2,vulnerability,weakness,vulnerability,5.01e-06,case,Abstraction
+facial_expression.n.01,gesture.n.02,5,2,facial expression,gesture,facial expression,9.29e-06,assimilation,Abstraction
+deaf.n.01,people.n.01,4,2,deaf,people,deaf,9.77e-06,status,Abstraction
+nod.n.01,gesture.n.02,5,2,nod,gesture,nod,5.5e-06,thoughtfulness,Abstraction
+amplitude.n.03,magnitude.n.01,5,2,amplitude,magnitude,amplitude,1.91e-06,communicator,Abstraction
+dock.n.06,body_part.n.01,5,2,dock,body part,dock,9.77e-06,cognition,Other
+incompetence.n.01,inability.n.02,5,2,incompetence,inability,incompetence,2.69e-06,message,Abstraction
+cove.n.01,inlet.n.01,5,2,cove,inlet,cove,4.37e-06,natural process,Other
+exhaust.n.01,waste.n.01,5,2,exhaust,waste,exhaust,6.46e-06,rate,Abstraction
+flock.n.02,animal_group.n.01,5,2,flock,animal group,flock,4.9e-06,scientist,Abstraction
+assimilation.n.03,organic_process.n.01,4,2,assimilation,organic process,assimilation,4.57e-06,collection,Other
+declination.n.04,acknowledgment.n.03,5,2,declination,acknowledgment,declination,6.03e-06,distress signal,Abstraction
+payer.n.01,money_handler.n.01,5,2,payer,money handler,payer,1.66e-06,content,Person
+linage.n.01,number.n.02,5,2,linage,number,linage,2.88e-06,body,Abstraction
+aptitude.n.01,ability.n.02,5,2,aptitude,ability,aptitude,1.58e-06,group,Abstraction
+cacodyl.n.02,group.n.02,5,2,cacodyl,group,cacodyl,1.69e-06,person,Other
+kilohertz.n.01,rate.n.01,5,2,kilohertz,rate,kilohertz,3.55e-06,division,Abstraction
+excavation.n.03,artifact.n.01,5,2,excavation,artifact,excavation,2.88e-06,skillfulness,Artifact
+the_halt.n.01,disabled.n.01,5,2,the halt,disabled,the halt,8.51e-06,lover,Abstraction
+reservation.n.02,statement.n.01,5,2,reservation,statement,reservation,8.91e-06,content,Abstraction
+morrow.n.01,day.n.01,5,2,morrow,day,morrow,2.63e-06,worker,Abstraction
+baked_goods.n.01,food.n.02,5,2,baked goods,food,baked goods,6.88e-06,content,Other
+developer.n.01,creator.n.02,5,2,developer,creator,developer,1.58e-05,statement,Person
+tourist.n.01,traveler.n.01,5,2,tourist,traveler,tourist,1.58e-05,time period,Person
+representation.n.06,statement.n.01,5,2,representation,statement,representation,2.19e-05,property,Abstraction
+reward.n.04,offer.n.02,5,2,reward,offer,reward,2.14e-05,people,Abstraction
+root.n.04,number.n.02,5,2,root,number,root,2.57e-05,organization,Abstraction
+representation.n.05,body.n.02,5,2,representation,body,representation,2.19e-05,opposition,Abstraction
+legal_relation.n.01,professional_relation.n.01,5,2,legal relation,professional relation,legal relation,1.75e-05,opposition,Abstraction
+maker.n.01,creator.n.02,5,2,maker,creator,maker,1.7e-05,condition,Person
+white_trash.n.01,poor_person.n.01,5,2,white trash,poor person,white trash,2.43e-05,stream,Person
+recall.n.03,bugle_call.n.01,5,2,recall,bugle call,recall,2.51e-05,certainty,Abstraction
+citizen.n.01,national.n.01,5,2,citizen,national,citizen,2.45e-05,foundation,Person
+gauge.n.02,standard.n.01,5,2,gauge,standard,gauge,1.05e-05,assimilation,Abstraction
+button.n.07,artifact.n.01,5,2,button,artifact,button,3.63e-05,inaccuracy,Artifact
+goldfish_bowl.n.01,situation.n.01,5,2,goldfish bowl,situation,goldfish bowl,2.78e-05,waste,Abstraction
+selenium.n.01,antioxidant.n.01,5,2,selenium,antioxidant,selenium,1.95e-05,vegetation,Substance
+marriage_proposal.n.01,offer.n.02,5,2,marriage proposal,offer,marriage proposal,4.71e-05,organic process,Abstraction
+employee.n.01,worker.n.01,5,2,employee,worker,employee,3.16e-05,natural language,Person
+decade.n.01,time_period.n.01,5,2,decade,time period,decade,3.31e-05,connection,Abstraction
+grass_roots.n.01,foundation.n.01,4,2,grass roots,foundation,grass roots,1.14e-05,status,Abstraction
+tribute.n.01,approval.n.04,5,2,tribute,approval,tribute,1.78e-05,biological group,Abstraction
+blemish.n.01,appearance.n.01,5,2,blemish,appearance,blemish,1.55e-05,person,Abstraction
+combatant.n.01,person.n.01,4,2,combatant,person,combatant,2.09e-05,chemical process,Person
+sweetheart.n.01,lover.n.01,5,2,sweetheart,lover,sweetheart,2.04e-05,assets,Person
+fold.n.03,geological_process.n.01,5,2,fold,geological process,fold,1.2e-05,number,Other
+suggestion.n.02,proposal.n.01,5,2,suggestion,proposal,suggestion,1.7e-05,geological process,Abstraction
+mid-march.n.01,time_period.n.01,5,2,mid-march,time period,mid-march,4.85e-05,quality,Abstraction
+cottonseed_cake.n.01,residue.n.01,4,2,cottonseed cake,residue,cottonseed cake,1.35e-05,contestant,Other
+latin.n.02,inhabitant.n.01,5,2,latin,inhabitant,latin,3.02e-05,biological group,Person
+contract_offer.n.01,offer.n.02,5,2,contract offer,offer,contract offer,4.9e-05,lover,Abstraction
+scrub.n.01,vegetation.n.01,5,2,scrub,vegetation,scrub,3.09e-05,scientist,Abstraction
+junior.n.03,person.n.01,4,2,junior,person,junior,3.09e-05,content,Person
+retreat.n.04,bugle_call.n.01,5,2,retreat,bugle call,retreat,1.35e-05,gesture,Abstraction
+performer.n.01,entertainer.n.01,5,2,performer,entertainer,performer,2.3e-05,time period,Person
+paragraph.n.01,writing.n.02,5,2,paragraph,writing,paragraph,1.07e-05,music genre,Abstraction
+flank.n.01,formation.n.01,5,2,flank,formation,flank,4.07e-05,cosmic time,Abstraction
+brook.n.01,stream.n.01,5,2,brook,stream,brook,2.34e-05,geological formation,Other
+scientist.n.01,person.n.01,4,2,scientist,person,scientist,1.62e-05,bugle call,Person
+migration.n.02,people.n.01,4,2,migration,people,migration,1.38e-05,inaccuracy,Abstraction
+mutual_opposition.n.01,opposition.n.02,4,2,mutual opposition,opposition,mutual opposition,1.22e-05,biological group,Abstraction
+client.n.01,case.n.06,5,2,client,case,client,3.47e-05,number,Person
+high_status.n.01,status.n.01,5,2,high status,status,high status,6.55e-05,adult,Abstraction
+slipstream.n.01,flow.n.04,5,2,slipstream,flow,slipstream,0.00012,disabled,Other
+can.n.02,containerful.n.01,5,2,can,containerful,can,0.00288,adult,Abstraction
+bill_of_rights.n.01,statement.n.01,5,2,bill of rights,statement,bill of rights,7.37e-05,inaccuracy,Abstraction
+estate_of_the_realm.n.01,class.n.03,5,2,estate of the realm,class,estate of the realm,6.61e-05,person,Abstraction
+culture.n.06,attitude.n.01,5,2,culture,attitude,culture,0.000107,body part,Abstraction
+size.n.01,magnitude.n.01,5,2,size,magnitude,size,0.000135,cognition,Abstraction
+deputation.n.01,organization.n.01,5,2,deputation,organization,deputation,8.13e-05,number,Abstraction
+boyfriend.n.01,man.n.01,5,2,boyfriend,man,boyfriend,0.000191,person,Person
+russian.n.01,native.n.01,5,2,russian,native,russian,0.000102,worthlessness,Person
+month.n.02,time_unit.n.01,4,2,month,time unit,month,0.000178,distress signal,Abstraction
+command.n.06,skillfulness.n.01,5,2,command,skillfulness,command,0.000251,creator,Abstraction
+amerind.n.01,natural_language.n.01,5,2,amerind,natural language,amerind,8.13e-05,temperature scale,Abstraction
+celsius_scale.n.01,temperature_scale.n.01,5,2,celsius scale,temperature scale,celsius scale,5.22e-05,inlet,Abstraction
+conscience.n.01,ethical_motive.n.01,5,2,conscience,ethical motive,conscience,8.54e-05,irregularity,Abstraction
+year.n.03,time_period.n.01,5,2,year,time period,year,0.000912,people,Abstraction
+classical_music.n.01,music_genre.n.01,5,2,classical music,music genre,classical music,9.12e-05,distress signal,Abstraction
+subspecies.n.01,taxonomic_group.n.01,5,2,subspecies,taxonomic group,subspecies,0.00012,indefinite quantity,Abstraction
+ace.n.03,expert.n.01,5,2,ace,expert,ace,0.000155,animal group,Person
+time-out.n.01,pause.n.01,5,2,time-out,pause,time-out,0.00108,contestant,Abstraction
+walk-in.n.01,person.n.01,4,2,walk-in,person,walk-in,0.000119,pause,Person
+life.n.05,time_period.n.01,5,2,life,time period,life,0.000776,movement,Abstraction
+grade.n.03,gradient.n.02,5,2,grade,gradient,grade,6.31e-05,system of weights,Abstraction
+dog_days.n.01,time_period.n.01,5,2,dog days,time period,dog days,9.62e-05,foundation,Abstraction
+movement.n.03,happening.n.01,5,2,movement,happening,movement,9.33e-05,complexity,Abstraction
+owner.n.02,person.n.01,4,2,owner,person,owner,6.76e-05,antioxidant,Person
+education.n.02,content.n.05,5,2,education,content,education,0.000191,property,Abstraction
+military_action.n.01,group_action.n.01,5,2,military action,group action,military action,0.000178,organization,Abstraction
+news.n.01,information.n.01,5,2,news,information,news,0.000275,irregularity,Abstraction
+free_french.n.01,movement.n.04,5,2,free french,movement,free french,9.55e-05,substance,Abstraction
+regular.n.03,follower.n.01,5,2,regular,follower,regular,8.91e-05,gesture,Person
+good_part.n.01,strength.n.01,5,2,good part,strength,good part,0.000414,pause,Abstraction
+professional.n.01,adult.n.01,5,2,professional,adult,professional,0.000112,person,Person
+class.n.01,collection.n.01,4,2,class,collection,class,0.000457,stream,Abstraction
+mother_tongue.n.01,natural_language.n.01,5,2,mother tongue,natural language,mother tongue,0.000115,distress signal,Abstraction
+flight.n.01,formation.n.01,5,2,flight,formation,flight,7.24e-05,time unit,Abstraction
+chic.n.01,elegance.n.01,5,2,chic,elegance,chic,0.000145,chemical process,Abstraction
+year-end.n.01,end.n.02,5,2,year-end,end,year-end,0.000314,offer,Abstraction
+chump.n.01,victim.n.02,5,2,chump,victim,chump,0.000112,person,Person
+sum.n.01,assets.n.01,5,2,sum,assets,sum,0.000135,person,Abstraction
+sugariness.n.02,sweetness.n.02,6,3,sugariness,sweetness,sugariness,1e-09,mineral,Abstraction
+sphaeriales.n.01,fungus_order.n.01,7,3,sphaeriales,fungus order,sphaeriales,1e-09,fern genus,Abstraction
+perissodactyla.n.01,animal_order.n.01,7,3,perissodactyla,animal order,perissodactyla,1.32e-08,cognitive state,Abstraction
+euphagus.n.01,bird_genus.n.01,7,3,euphagus,bird genus,euphagus,1e-09,experience,Abstraction
+marcionism.n.01,heresy.n.02,6,3,marcionism,heresy,marcionism,1.23e-08,topographic point,Abstraction
+cestida.n.01,animal_order.n.01,7,3,cestida,animal order,cestida,1e-09,cognitive state,Abstraction
+methacholine.n.01,medicine.n.02,6,3,methacholine,medicine,methacholine,1.35e-08,communication,Substance
+gerris.n.01,arthropod_genus.n.01,7,3,gerris,arthropod genus,gerris,1.26e-08,hopefulness,Abstraction
+pholidota.n.02,animal_order.n.01,7,3,pholidota,animal order,pholidota,1e-09,careerist,Abstraction
+caitiff.n.01,cur.n.02,6,3,caitiff,cur,caitiff,1.48e-08,retreat,Person
+carina_fornicis.n.01,carina.n.02,7,3,carina fornicis,carina,carina fornicis,1e-09,commerce,Other
+acrocomia.n.01,monocot_genus.n.01,7,3,acrocomia,monocot genus,acrocomia,1e-09,value,Abstraction
+protology.n.01,discipline.n.01,7,3,protology,discipline,protology,1e-09,waste,Abstraction
+ceterach.n.01,fern_genus.n.01,7,3,ceterach,fern genus,ceterach,1e-09,hopefulness,Abstraction
+podetium.n.01,plant_process.n.01,7,3,podetium,plant process,podetium,1e-09,organism,Other
+momotus.n.01,bird_genus.n.01,7,3,momotus,bird genus,momotus,1e-09,external body part,Abstraction
+shapelessness.n.02,unattractiveness.n.01,7,3,shapelessness,unattractiveness,shapelessness,1e-09,layer,Abstraction
+deparia.n.01,fern_genus.n.01,7,3,deparia,fern genus,deparia,1e-09,mammal family,Abstraction
+nankeen.n.01,fabric.n.01,6,3,nankeen,fabric,nankeen,1.58e-08,carina,Artifact
+nasua.n.01,mammal_genus.n.01,7,3,nasua,mammal genus,nasua,1e-09,unattractiveness,Abstraction
+nucifraga.n.01,bird_genus.n.01,7,3,nucifraga,bird genus,nucifraga,1e-09,carina,Abstraction
+thamnophilus.n.01,bird_genus.n.01,7,3,thamnophilus,bird genus,thamnophilus,1e-09,religion,Abstraction
+buceros.n.01,bird_genus.n.01,7,3,buceros,bird genus,buceros,1e-09,light,Abstraction
+genus_tenrec.n.01,mammal_genus.n.01,7,3,genus tenrec,mammal genus,genus tenrec,1e-09,queue,Abstraction
+trichlormethiazide.n.01,thiazide.n.01,7,3,trichlormethiazide,thiazide,trichlormethiazide,1e-09,financial loss,Substance
+cladorhyncus.n.01,bird_genus.n.01,7,3,cladorhyncus,bird genus,cladorhyncus,1e-09,advice,Abstraction
+lithospermum.n.01,plant_genus.n.01,7,3,lithospermum,plant genus,lithospermum,1e-09,mammal genus,Abstraction
+phallaceae.n.01,fungus_family.n.01,7,3,phallaceae,fungus family,phallaceae,1e-09,fungus order,Abstraction
+sirenidae.n.01,amphibian_family.n.01,7,3,sirenidae,amphibian family,sirenidae,1e-09,ideal,Abstraction
+ectoparasite.n.01,parasite.n.01,7,3,ectoparasite,parasite,ectoparasite,1.05e-08,fabric,Other
+symphyla.n.01,class.n.07,6,3,symphyla,class,symphyla,1e-09,reaction,Abstraction
+abidance.n.03,continuance.n.01,7,3,abidance,continuance,abidance,1e-09,word,Abstraction
+dimetapp.n.01,antihistamine.n.01,7,3,dimetapp,antihistamine,dimetapp,1e-09,mental health,Substance
+gnetopsida.n.01,class.n.07,6,3,gnetopsida,class,gnetopsida,1e-09,word,Abstraction
+genus_forestiera.n.01,dicot_genus.n.01,7,3,genus forestiera,dicot genus,genus forestiera,1e-09,cardinal number,Abstraction
+heteroploid.n.01,organism.n.01,6,3,heteroploid,organism,heteroploid,1e-09,astonishment,Other
+1530s.n.01,decade.n.01,6,3,1530s,decade,1530s,2.83e-09,root,Abstraction
+koasati.n.01,muskhogean.n.01,7,3,koasati,muskhogean,koasati,1e-09,movement,Person
+syncategorem.n.01,word.n.01,6,3,syncategorem,word,syncategorem,1e-09,nutriment,Abstraction
+gerbillinae.n.01,mammal_family.n.01,7,3,gerbillinae,mammal family,gerbillinae,1e-09,world,Abstraction
+dinginess.n.01,dirtiness.n.01,7,3,dinginess,dirtiness,dinginess,4.27e-08,financial loss,Abstraction
+oilcloth.n.01,fabric.n.01,6,3,oilcloth,fabric,oilcloth,4.07e-08,center of mass,Artifact
+isometry.n.01,growth_rate.n.01,6,3,isometry,growth rate,isometry,3.98e-08,animal order,Abstraction
+galvanism.n.01,electricity.n.01,7,3,galvanism,electricity,galvanism,1.86e-08,mammal genus,Other
+effacement.n.02,withdrawal.n.03,7,3,effacement,withdrawal,effacement,5.89e-08,course,Abstraction
+sulk.n.01,temper.n.02,6,3,sulk,temper,sulk,3.55e-07,league,Abstraction
+bioelectricity.n.01,organic_phenomenon.n.01,6,3,bioelectricity,organic phenomenon,bioelectricity,1.82e-08,football official,Other
+unkindness.n.01,insensitivity.n.01,6,3,unkindness,insensitivity,unkindness,7.76e-08,amerind,Abstraction
+squatter.n.02,intruder.n.01,6,3,squatter,intruder,squatter,3.55e-07,continuance,Person
+imperfective.n.01,durative.n.01,7,3,imperfective,durative,imperfective,5.89e-08,fungus order,Abstraction
+formica.n.02,arthropod_genus.n.01,7,3,formica,arthropod genus,formica,2.69e-07,work unit,Abstraction
+pabulum.n.02,food.n.03,6,3,pabulum,food,pabulum,2.19e-08,practice,Abstraction
+sidecar.n.02,conveyance.n.03,7,3,sidecar,conveyance,sidecar,3.47e-07,horn,Artifact
+whalebone.n.01,horn.n.07,7,3,whalebone,horn,whalebone,1.26e-07,reptile genus,Abstraction
+prokaryote.n.01,organism.n.01,6,3,prokaryote,organism,prokaryote,2.82e-08,surface,Other
+medaille_militaire.n.01,decoration.n.02,7,3,medaille militaire,decoration,medaille militaire,1.94e-08,amerind,Abstraction
+meritocracy.n.02,political_orientation.n.01,7,3,meritocracy,political orientation,meritocracy,3.55e-07,mineral,Abstraction
+eversion.n.01,position.n.04,6,3,eversion,position,eversion,3.47e-08,word,Abstraction
+elymus.n.01,monocot_genus.n.01,7,3,elymus,monocot genus,elymus,2.29e-08,retreat,Abstraction
+cornu.n.01,structure.n.04,6,3,cornu,structure,cornu,8.91e-08,negotiator,Other
+automatism.n.01,reaction.n.03,6,3,automatism,reaction,automatism,6.46e-08,community,Other
+niobite.n.01,mineral.n.01,6,3,niobite,mineral,niobite,1.86e-08,citizen,Abstraction
+barycenter.n.01,center_of_mass.n.01,7,3,barycenter,center of mass,barycenter,2.63e-08,organism,Other
+villainess.n.01,villain.n.01,6,3,villainess,villain,villainess,8.32e-08,amerind,Person
+compromiser.n.01,negotiator.n.01,6,3,compromiser,negotiator,compromiser,2.45e-08,design,Person
+vesuvianite.n.01,mineral.n.01,6,3,vesuvianite,mineral,vesuvianite,1.78e-08,surface,Abstraction
+asceticism.n.01,doctrine.n.01,7,3,asceticism,doctrine,asceticism,2.51e-07,movement,Abstraction
+canthus.n.01,corner.n.02,6,3,canthus,corner,canthus,3.39e-08,mammal genus,Other
+blacktop.n.01,paving.n.01,6,3,blacktop,paving,blacktop,1.74e-07,freshwater fish,Artifact
+arawak.n.02,amerind.n.01,6,3,arawak,amerind,arawak,6.61e-08,spectrum,Abstraction
+convertibility.n.01,exchangeability.n.01,6,3,convertibility,exchangeability,convertibility,8.32e-08,cake,Abstraction
+explicitness.n.01,clarity.n.01,6,3,explicitness,clarity,explicitness,3.98e-08,league,Abstraction
+homiletics.n.02,art.n.03,7,3,homiletics,art,homiletics,4.57e-08,corner,Abstraction
+medullated_nerve_fiber.n.01,nerve_fiber.n.01,7,3,medullated nerve fiber,nerve fiber,medullated nerve fiber,5.33e-08,race,Abstraction
+romanov.n.01,emperor.n.01,7,3,romanov,emperor,romanov,2.88e-07,radiobiologist,Person
+elul.n.01,jewish_calendar_month.n.01,7,3,elul,jewish calendar month,elul,4.37e-08,root,Abstraction
+repatriate.n.01,citizen.n.01,6,3,repatriate,citizen,repatriate,2.51e-07,monocot genus,Person
+undulation.n.02,movement.n.03,6,3,undulation,movement,undulation,5.37e-08,mammal family,Abstraction
+sharkskin.n.01,fabric.n.01,6,3,sharkskin,fabric,sharkskin,3.39e-08,position,Artifact
+genus_caiman.n.01,reptile_genus.n.01,7,3,genus caiman,reptile genus,genus caiman,1.57e-07,hopefulness,Abstraction
+head_linesman.n.01,football_official.n.01,7,3,head linesman,football official,head linesman,3.89e-07,class,Person
+back_burner.n.01,precedence.n.01,7,3,back burner,precedence,back burner,3.46e-06,communication,Abstraction
+chain-smoker.n.01,smoker.n.01,7,3,chain-smoker,smoker,chain-smoker,2.23e-06,association,Person
+arterial_blood_gases.n.01,measurement.n.01,7,3,arterial blood gases,measurement,arterial blood gases,1.32e-06,experience,Abstraction
+tongue_twister.n.01,saying.n.01,6,3,tongue twister,saying,tongue twister,1.07e-06,intruder,Abstraction
+gingerbread.n.01,cake.n.03,7,3,gingerbread,cake,gingerbread,1.07e-06,bird genus,Other
+niger_franc.n.01,franc.n.01,7,3,niger franc,franc,niger franc,8.84e-07,plant process,Abstraction
+totalitarian_state.n.01,government.n.01,7,3,totalitarian state,government,totalitarian state,1.62e-06,queue,Abstraction
+nook.n.01,retreat.n.02,7,3,nook,retreat,nook,1.51e-06,unattractiveness,Other
+oyster_shell.n.01,shell.n.10,7,3,oyster shell,shell,oyster shell,3.04e-06,wave,Other
+honeycomb.n.01,structure.n.01,6,3,honeycomb,structure,honeycomb,8.71e-07,administrative district,Artifact
+freshness.n.01,newness.n.01,6,3,freshness,newness,freshness,1.32e-06,fern genus,Abstraction
+barbados_dollar.n.01,dollar.n.01,7,3,barbados dollar,dollar,barbados dollar,2.92e-06,defendant,Abstraction
+misfire.n.01,breakdown.n.03,7,3,misfire,breakdown,misfire,9.77e-07,mammal genus,Abstraction
+flap.n.01,covering.n.02,6,3,flap,covering,flap,3.09e-06,animal order,Artifact
+reductase.n.01,enzyme.n.01,7,3,reductase,enzyme,reductase,5.13e-07,emperor,Abstraction
+tsunami.n.01,wave.n.01,7,3,tsunami,wave,tsunami,3.31e-06,family,Abstraction
+kleenex.n.01,tissue.n.02,7,3,kleenex,tissue,kleenex,4.9e-07,mineral,Abstraction
+burmese.n.01,asian.n.01,6,3,burmese,asian,burmese,1.86e-06,nutriment,Person
+taboo.n.02,inhibition.n.02,7,3,taboo,inhibition,taboo,2.95e-06,party,Abstraction
+footnote.n.01,note.n.07,7,3,footnote,note,footnote,1.48e-06,administrative district,Abstraction
+caretaker.n.02,official.n.01,7,3,caretaker,official,caretaker,2.82e-06,performing arts,Person
+ojibwa.n.01,plains_indian.n.01,7,3,ojibwa,plains indian,ojibwa,5.75e-07,cube,Person
+artichoke.n.02,vegetable.n.01,7,3,artichoke,vegetable,artichoke,5.37e-07,predicament,Other
+bolivian_monetary_unit.n.01,monetary_unit.n.01,6,3,bolivian monetary unit,monetary unit,bolivian monetary unit,9.77e-07,withdrawal,Abstraction
+succoth.n.01,jewish_holy_day.n.01,7,3,succoth,jewish holy day,succoth,1.57e-06,mineral,Abstraction
+vol-au-vent.n.01,pastry.n.02,7,3,vol-au-vent,pastry,vol-au-vent,3.41e-06,reptile genus,Other
+damper.n.02,device.n.01,7,3,damper,device,damper,8.71e-07,mammal genus,Artifact
+audacity.n.02,boldness.n.02,7,3,audacity,boldness,audacity,1.86e-06,arthropod genus,Abstraction
+arithmetic_progression.n.01,progression.n.01,7,3,arithmetic progression,progression,arithmetic progression,1.91e-06,association,Abstraction
+abscess.n.01,symptom.n.01,7,3,abscess,symptom,abscess,6.46e-07,radiobiologist,Abstraction
+probate.n.01,certificate.n.01,7,3,probate,certificate,probate,1.45e-06,mammal family,Abstraction
+chiding.n.01,rebuke.n.01,7,3,chiding,rebuke,chiding,1.05e-06,movement,Abstraction
+academia.n.01,world.n.02,6,3,academia,world,academia,3.47e-06,decade,Abstraction
+county_palatine.n.01,administrative_district.n.01,7,3,county palatine,administrative district,county palatine,6.14e-07,shell,Other
+bestiality.n.02,sexual_activity.n.01,6,3,bestiality,sexual activity,bestiality,4.17e-07,monocot genus,Other
+haitian_monetary_unit.n.01,monetary_unit.n.01,6,3,haitian monetary unit,monetary unit,haitian monetary unit,1.86e-06,smoker,Abstraction
+continental_glacier.n.01,glacier.n.01,6,3,continental glacier,glacier,continental glacier,2.79e-06,wood,Other
+heretic.n.01,outcast.n.01,6,3,heretic,outcast,heretic,1.21e-06,stock,Person
+falafel.n.01,dish.n.02,7,3,falafel,dish,falafel,4.37e-07,inhibition,Substance
+mirror_image.n.01,likeness.n.01,7,3,mirror image,likeness,mirror image,2.2e-05,conveyance,Abstraction
+estimate.n.02,judgment.n.02,6,3,estimate,judgment,estimate,1.95e-05,fungus family,Abstraction
+freestyle.n.01,race.n.02,7,3,freestyle,race,freestyle,6.31e-06,plant process,Abstraction
+implied_trust.n.01,trust.n.01,6,3,implied trust,trust,implied trust,8.01e-06,wave,Abstraction
+ego_ideal.n.01,ideal.n.01,7,3,ego ideal,ideal,ego ideal,7.59e-06,surface,Abstraction
+hamlet.n.01,community.n.01,6,3,hamlet,community,hamlet,4.47e-06,dirtiness,Abstraction
+junction.n.01,topographic_point.n.01,6,3,junction,topographic point,junction,8.71e-06,boldness,Other
+sucker.n.04,freshwater_fish.n.01,7,3,sucker,freshwater fish,sucker,3.89e-06,porch,Other
+cube_root.n.01,root.n.04,6,3,cube root,root,cube root,5.26e-06,jewish calendar month,Abstraction
+absorption_spectrum.n.01,spectrum.n.01,6,3,absorption spectrum,spectrum,absorption spectrum,3.65e-06,art,Abstraction
+transmission.n.02,communication.n.01,6,3,transmission,communication,transmission,2.14e-05,unattractiveness,Abstraction
+mi.n.08,solfa_syllable.n.01,7,3,mi,solfa syllable,mi,2e-05,league,Abstraction
+foot-ton.n.01,work_unit.n.01,6,3,foot-ton,work unit,foot-ton,1.54e-05,dish,Abstraction
+depreciation.n.02,financial_loss.n.01,7,3,depreciation,financial loss,depreciation,1.76e-05,dish,Abstraction
+effluent.n.01,waste.n.01,6,3,effluent,waste,effluent,4.31e-06,symptom,Abstraction
+marble_cake.n.01,cake.n.03,7,3,marble cake,cake,marble cake,7.19e-06,astonishment,Other
+lemon_peel.n.01,peel.n.02,7,3,lemon peel,peel,lemon peel,4.2e-06,recipient,Abstraction
+disguise.n.03,concealment.n.03,7,3,disguise,concealment,disguise,5.25e-06,sense organ,Abstraction
+transvestism.n.01,practice.n.01,7,3,transvestism,practice,transvestism,1.29e-05,pastry,Abstraction
+dependant.n.01,recipient.n.01,6,3,dependant,recipient,dependant,1.91e-05,bird genus,Person
+mexican_monetary_unit.n.01,monetary_unit.n.01,6,3,mexican monetary unit,monetary unit,mexican monetary unit,7.72e-06,community,Abstraction
+ivy_league.n.01,league.n.01,7,3,ivy league,league,ivy league,6.44e-06,likeness,Abstraction
+hovel.n.01,shelter.n.01,7,3,hovel,shelter,hovel,6.92e-06,progression,Artifact
+theorem.n.01,proposition.n.01,6,3,theorem,proposition,theorem,5.13e-06,military unit,Abstraction
+back_porch.n.01,porch.n.01,7,3,back porch,porch,back porch,7.03e-06,peel,Artifact
+curator.n.01,custodian.n.01,7,3,curator,custodian,curator,3.55e-06,rebuke,Person
+partner_relation.n.01,fiduciary_relation.n.01,7,3,partner relation,fiduciary relation,partner relation,1.58e-05,religion,Abstraction
+piperaceae.n.01,dicot_family.n.01,7,3,piperaceae,dicot family,piperaceae,1.34e-05,insensitivity,Abstraction
+ice_cube.n.01,cube.n.05,7,3,ice cube,cube,ice cube,6.2e-06,porch,Artifact
+highlight.n.02,light.n.07,6,3,highlight,light,highlight,1.62e-05,pastry,Abstraction
+anticipation.n.04,hopefulness.n.01,6,3,anticipation,hopefulness,anticipation,9.77e-06,antihistamine,Abstraction
+moss_family.n.01,family.n.06,6,3,moss family,family,moss family,7.63e-06,mental health,Abstraction
+socialist_labor_party.n.01,party.n.01,6,3,socialist labor party,party,socialist labor party,1.24e-05,animal order,Abstraction
+codefendant.n.01,defendant.n.01,7,3,codefendant,defendant,codefendant,9.02e-06,movement,Person
+motif.n.01,design.n.04,7,3,motif,design,motif,8.71e-06,electricity,Artifact
+reception_line.n.01,queue.n.01,7,3,reception line,queue,reception line,1.61e-05,performing arts,Abstraction
+olive.n.03,wood.n.01,7,3,olive,wood,olive,1.23e-05,hopefulness,Abstraction
+lateral_line.n.01,sense_organ.n.01,7,3,lateral line,sense organ,lateral line,5.52e-06,topographic point,Other
+stuffing.n.01,concoction.n.01,7,3,stuffing,concoction,stuffing,1.48e-05,breakdown,Substance
+lesbian.n.02,greek.n.02,7,3,lesbian,greek,lesbian,1.41e-05,advice,Person
+racetrack.n.01,course.n.09,7,3,racetrack,course,racetrack,0.000105,recipient,Artifact
+mark.n.05,impression.n.02,6,3,mark,impression,mark,0.000112,course,Abstraction
+room.n.03,opportunity.n.01,7,3,room,opportunity,room,0.000245,bird genus,Abstraction
+command.n.02,military_unit.n.01,7,3,command,military unit,command,5.01e-05,plant process,Abstraction
+time.n.06,experience.n.03,6,3,time,experience,time,0.00195,mammal genus,Abstraction
+couple.n.02,family.n.02,6,3,couple,family,couple,0.000155,defender,Abstraction
+redskin.n.01,indian.n.01,6,3,redskin,indian,redskin,0.000159,reptile genus,Person
+cell_wall.n.01,layer.n.02,6,3,cell wall,layer,cell wall,4.42e-05,unattractiveness,Other
+frequency.n.03,cardinal_number.n.01,6,3,frequency,cardinal number,frequency,2.29e-05,discipline,Abstraction
+november.n.01,gregorian_calendar_month.n.01,7,3,november,gregorian calendar month,november,0.000126,careerist,Abstraction
+face.n.01,external_body_part.n.01,6,3,face,external body part,face,0.000282,arthropod genus,Other
+case.n.20,container.n.01,7,3,case,container,case,0.000355,waste,Artifact
+family.n.08,association.n.01,6,3,family,association,family,0.000457,representative,Abstraction
+new_line.n.01,printing_operation.n.01,7,3,new line,printing operation,new line,0.000263,word,Other
+wonder.n.01,astonishment.n.01,6,3,wonder,astonishment,wonder,8.51e-05,retreat,Abstraction
+price.n.03,value.n.02,6,3,price,value,price,0.000174,family,Abstraction
+growth_stock.n.01,stock.n.01,7,3,growth stock,stock,growth stock,4.74e-05,opportunity,Abstraction
+chain.n.06,linear_unit.n.01,6,3,chain,linear unit,chain,4.47e-05,temper,Abstraction
+guard.n.01,defender.n.01,6,3,guard,defender,guard,5.37e-05,organism,Person
+speech_community.n.01,community.n.01,6,3,speech community,community,speech community,5.35e-05,discipline,Abstraction
+sect.n.01,religion.n.02,7,3,sect,religion,sect,5.76e-05,inhibition,Abstraction
+care.n.04,predicament.n.01,7,3,care,predicament,care,0.000363,retreat,Abstraction
+admonition.n.01,advice.n.01,6,3,admonition,advice,admonition,5.34e-05,thiazide,Abstraction
+payment.n.02,commerce.n.01,7,3,payment,commerce,payment,4.57e-05,parasite,Abstraction
+school.n.06,educational_institution.n.01,7,3,school,educational institution,school,0.000513,race,Abstraction
+career_man.n.01,careerist.n.01,7,3,career man,careerist,career man,9.98e-05,jewish holy day,Person
+employment.n.03,action.n.01,6,3,employment,action,employment,3.63e-05,shelter,Abstraction
+mental_soundness.n.01,mental_health.n.01,7,3,mental soundness,mental health,mental soundness,3.11e-05,fabric,Abstraction
+wing.n.09,helping.n.01,6,3,wing,helping,wing,4.07e-05,measurement,Abstraction
+head_of_state.n.01,representative.n.01,7,3,head of state,representative,head of state,0.000209,class,Person
+dainty.n.01,nutriment.n.01,6,3,dainty,nutriment,dainty,5.62e-05,precedence,Substance
+arms_deal.n.01,deal.n.01,7,3,arms deal,deal,arms deal,5.02e-05,word,Abstraction
+gray.n.06,radiobiologist.n.01,7,3,gray,radiobiologist,gray,2.82e-05,spectrum,Person
+curiosity.n.01,cognitive_state.n.01,7,3,curiosity,cognitive state,curiosity,8.51e-05,solfa syllable,Abstraction
+water_dog.n.01,sailor.n.01,7,3,water dog,sailor,water dog,9.12e-05,medicine,Person
+football_league.n.01,league.n.01,7,3,football league,league,football league,6.59e-05,carina,Abstraction
+horizontal_surface.n.01,surface.n.01,6,3,horizontal surface,surface,horizontal surface,0.000257,reptile genus,Artifact
+acting.n.01,performing_arts.n.01,6,3,acting,performing arts,acting,0.000234,queue,Abstraction
+purpose.n.01,goal.n.01,6,3,purpose,goal,purpose,0.000148,pastry,Abstraction
+fox.n.07,algonquian.n.02,7,3,fox,algonquian,fox,4.57e-05,medicine,Abstraction
+besseya.n.01,asterid_dicot_genus.n.01,8,4,besseya,asterid dicot genus,besseya,1e-09,consideration,Abstraction
+stayman_winesap.n.01,eating_apple.n.01,9,4,stayman winesap,eating apple,stayman winesap,1.3e-08,bedroom,Other
+customhouse.n.01,government_building.n.01,8,4,customhouse,government building,customhouse,3.89e-08,gluten,Artifact
+genus_gliricidia.n.01,rosid_dicot_genus.n.01,8,4,genus gliricidia,rosid dicot genus,genus gliricidia,1e-09,title,Abstraction
+doubleton.n.01,couple.n.04,9,4,doubleton,couple,doubleton,1.2e-08,circle,Abstraction
+octant.n.01,measuring_instrument.n.01,9,4,octant,measuring instrument,octant,3.31e-08,damper,Artifact
+absentmindedness.n.01,preoccupation.n.02,8,4,absentmindedness,preoccupation,absentmindedness,1.51e-08,tart,Abstraction
+epicycle.n.01,circle.n.01,9,4,epicycle,circle,epicycle,1.95e-08,minutes,Abstraction
+messuage.n.01,dwelling.n.01,8,4,messuage,dwelling,messuage,3.39e-08,umber,Artifact
+gromwell.n.01,herb.n.01,9,4,gromwell,herb,gromwell,1e-09,washup,Plant
+mesothelium.n.01,epithelium.n.01,8,4,mesothelium,epithelium,mesothelium,1.35e-08,attack,Other
+sium.n.01,rosid_dicot_genus.n.01,8,4,sium,rosid dicot genus,sium,1.1e-08,gliding joint,Abstraction
+tartlet.n.01,tart.n.02,9,4,tartlet,tart,tartlet,2.82e-08,coat of paint,Other
+asparaginase.n.01,antineoplastic.n.01,8,4,asparaginase,antineoplastic,asparaginase,1.38e-08,scarcity,Substance
+egyptian_henbane.n.01,herb.n.01,9,4,egyptian henbane,herb,egyptian henbane,4.25e-08,agency,Plant
+skeg.n.01,brace.n.01,9,4,skeg,brace,skeg,2.63e-08,fascist,Artifact
+glossitis.n.01,inflammation.n.01,8,4,glossitis,inflammation,glossitis,1.86e-08,combination,Abstraction
+antitype.n.02,kind.n.01,9,4,antitype,kind,antitype,1.55e-08,soldier,Abstraction
+aerophilately.n.01,philately.n.01,9,4,aerophilately,philately,aerophilately,1e-09,rosid dicot genus,Abstraction
+iliamna.n.01,dilleniid_dicot_genus.n.01,8,4,iliamna,dilleniid dicot genus,iliamna,1.91e-08,work,Abstraction
+false_bugbane.n.01,herb.n.01,9,4,false bugbane,herb,false bugbane,1e-09,dilleniid dicot genus,Plant
+pholiota_astragalina.n.01,agaric.n.02,9,4,pholiota astragalina,agaric,pholiota astragalina,1e-09,tart,Other
+spindlelegs.n.02,leg.n.01,9,4,spindlelegs,leg,spindlelegs,1e-09,measuring instrument,Other
+blackshirt.n.01,fascist.n.01,8,4,blackshirt,fascist,blackshirt,2.45e-08,couplet,Person
+anabaptism.n.01,protestantism.n.01,9,4,anabaptism,protestantism,anabaptism,2.75e-08,ericales,Abstraction
+cock-a-leekie.n.01,soup.n.01,8,4,cock-a-leekie,soup,cock-a-leekie,1.51e-08,composing,Substance
+echinocereus.n.01,caryophylloid_dicot_genus.n.01,8,4,echinocereus,caryophylloid dicot genus,echinocereus,1e-09,measuring instrument,Abstraction
+eolith.n.01,tool.n.01,8,4,eolith,tool,eolith,1e-09,guilt,Artifact
+bobsledding.n.01,sledding.n.01,9,4,bobsledding,sledding,bobsledding,3.63e-08,poisonous plant,Abstraction
+triphosphoric_acid.n.01,acid.n.01,8,4,triphosphoric acid,acid,triphosphoric acid,1e-09,boat race,Abstraction
+keratoscleritis.n.01,inflammation.n.01,8,4,keratoscleritis,inflammation,keratoscleritis,1e-09,basidiomycete,Abstraction
+ureteritis.n.01,inflammation.n.01,8,4,ureteritis,inflammation,ureteritis,1e-09,pie,Abstraction
+wateriness.n.02,meagerness.n.01,8,4,wateriness,meagerness,wateriness,1e-09,master's degree,Abstraction
+peradventure.n.01,doubt.n.01,8,4,peradventure,doubt,peradventure,4.17e-08,meagerness,Abstraction
+coneflower.n.02,wildflower.n.01,9,4,coneflower,wildflower,coneflower,3.72e-08,cornsmut,Plant
+malacothamnus.n.01,dilleniid_dicot_genus.n.01,8,4,malacothamnus,dilleniid dicot genus,malacothamnus,1e-09,insertion,Abstraction
+sawm.n.01,pillar_of_islam.n.01,9,4,sawm,pillar of islam,sawm,1.29e-08,shadow,Abstraction
+fatwah.n.01,opinion.n.04,8,4,fatwah,opinion,fatwah,1.05e-08,antimalarial,Abstraction
+potassium_ferrocyanide.n.01,ferrocyanide.n.01,9,4,potassium ferrocyanide,ferrocyanide,potassium ferrocyanide,2.73e-08,soldier,Abstraction
+mealworm.n.01,larva.n.01,8,4,mealworm,larva,mealworm,3.39e-08,optical device,Animal
+rhizome.n.01,stalk.n.02,8,4,rhizome,stalk,rhizome,2.51e-07,butter cookie,Other
+demonetization.n.01,termination.n.05,9,4,demonetization,termination,demonetization,1.29e-07,bed,Abstraction
+umbra.n.01,shadow.n.01,9,4,umbra,shadow,umbra,2.45e-07,acid,Abstraction
+chloroquine.n.01,antimalarial.n.01,8,4,chloroquine,antimalarial,chloroquine,1.17e-07,sulfide,Substance
+oto.n.01,sioux.n.01,8,4,oto,sioux,oto,2.69e-07,sulfide,Person
+camera_obscura.n.01,chamber.n.01,9,4,camera obscura,chamber,camera obscura,2.23e-07,fruit,Artifact
+deprecation.n.01,prayer.n.02,8,4,deprecation,prayer,deprecation,2.51e-07,flower,Abstraction
+titania.n.02,fairy.n.01,8,4,titania,fairy,titania,3.31e-07,cafe,Abstraction
+dowel.n.01,fastener.n.02,9,4,dowel,fastener,dowel,2.4e-07,fascism,Artifact
+fulminate.n.01,salt.n.01,8,4,fulminate,salt,fulminate,6.46e-08,bill,Abstraction
+inflorescence.n.02,flower.n.02,9,4,inflorescence,flower,inflorescence,3.98e-07,antineoplastic,Other
+foxglove.n.01,herb.n.01,9,4,foxglove,herb,foxglove,1.86e-07,fairy,Plant
+beef_fondue.n.01,fondue.n.01,8,4,beef fondue,fondue,beef fondue,3.81e-07,cell,Substance
+elbowing.n.01,jostle.n.01,9,4,elbowing,jostle,elbowing,1.66e-07,philately,Abstraction
+recapitulation.n.04,composing.n.02,9,4,recapitulation,composing,recapitulation,1.66e-07,brace,Abstraction
+finery.n.01,attire.n.01,8,4,finery,attire,finery,2.88e-07,rosid dicot genus,Artifact
+euphorbia.n.01,rosid_dicot_genus.n.01,8,4,euphorbia,rosid dicot genus,euphorbia,1.41e-07,combination,Abstraction
+thunderhead.n.01,cumulus.n.01,9,4,thunderhead,cumulus,thunderhead,7.08e-08,soldier,Other
+oireachtas.n.01,parliament.n.01,8,4,oireachtas,parliament,oireachtas,7.94e-08,ericales,Abstraction
+perfusion.n.01,insertion.n.02,9,4,perfusion,insertion,perfusion,4.68e-07,rosid dicot genus,Abstraction
+cadmium_sulfide.n.01,sulfide.n.01,8,4,cadmium sulfide,sulfide,cadmium sulfide,3.82e-07,circle,Abstraction
+roan.n.01,leather.n.01,9,4,roan,leather,roan,5.25e-07,pillar of islam,Abstraction
+ducks_and_drakes.n.01,game.n.03,8,4,ducks and drakes,game,ducks and drakes,3.55e-07,leather,Abstraction
+rectifier.n.01,electrical_device.n.01,8,4,rectifier,electrical device,rectifier,3.24e-07,composing,Artifact
+subdominant.n.01,note.n.03,8,4,subdominant,note,subdominant,5.62e-08,herb,Abstraction
+copalite.n.01,copal.n.01,9,4,copalite,copal,copalite,5.72e-08,vessel,Abstraction
+shortbread.n.01,butter_cookie.n.01,9,4,shortbread,butter cookie,shortbread,3.31e-07,dilleniid dicot genus,Other
+nativism.n.02,philosophical_doctrine.n.01,8,4,nativism,philosophical doctrine,nativism,1.26e-07,flower,Abstraction
+workpiece.n.01,work.n.02,8,4,workpiece,work,workpiece,3.98e-07,master's degree,Artifact
+minibar.n.01,buffet.n.01,9,4,minibar,buffet,minibar,2.51e-07,preoccupation,Artifact
+highboy.n.01,chest_of_drawers.n.01,9,4,highboy,chest of drawers,highboy,5.37e-08,parallelogram,Artifact
+guestroom.n.01,bedroom.n.01,9,4,guestroom,bedroom,guestroom,6.46e-08,sioux,Artifact
+spondylitis.n.01,inflammation.n.01,8,4,spondylitis,inflammation,spondylitis,1.38e-07,ericales,Abstraction
+heroic_couplet.n.01,couplet.n.02,9,4,heroic couplet,couplet,heroic couplet,3.09e-07,vine,Abstraction
+barium_sulphate.n.01,sulfate.n.01,9,4,barium sulphate,sulfate,barium sulphate,3.85e-07,fire,Abstraction
+minocycline.n.01,tetracycline.n.01,8,4,minocycline,tetracycline,minocycline,6.03e-08,agaric,Substance
+hotbed.n.02,bed.n.02,9,4,hotbed,bed,hotbed,4.47e-07,coat of paint,Other
+burnt_umber.n.01,umber.n.01,8,4,burnt umber,umber,burnt umber,2.4e-07,bead,Abstraction
+biogenesis.n.02,generation.n.07,8,4,biogenesis,generation,biogenesis,2.51e-07,brainwave,Other
+panhandler.n.01,beggar.n.01,8,4,panhandler,beggar,panhandler,5.37e-08,antineoplastic,Person
+yellow_jasmine.n.01,vine.n.01,9,4,yellow jasmine,vine,yellow jasmine,3.76e-06,memory device,Plant
+schism.n.02,rupture.n.02,8,4,schism,rupture,schism,1.02e-06,position,Abstraction
+squirrel_corn.n.01,herb.n.01,9,4,squirrel corn,herb,squirrel corn,3.72e-06,attire,Plant
+espresso_shop.n.01,cafe.n.01,9,4,espresso shop,cafe,espresso shop,2.38e-06,shadow,Artifact
+unidentified_flying_object.n.01,apparition.n.03,9,4,unidentified flying object,apparition,unidentified flying object,3.42e-06,minutes,Abstraction
+master_of_divinity.n.01,master's_degree.n.01,8,4,master of divinity,master's degree,master of divinity,2.73e-06,mandarin,Abstraction
+rarity.n.01,scarcity.n.01,8,4,rarity,scarcity,rarity,2.29e-06,herb,Abstraction
+pectoral.n.01,skeletal_muscle.n.01,9,4,pectoral,skeletal muscle,pectoral,8.13e-07,philosophical doctrine,Other
+stash_house.n.01,house.n.12,8,4,stash house,house,stash house,3.44e-06,protestantism,Artifact
+devil's_food.n.01,chocolate_cake.n.01,8,4,devil's food,chocolate cake,devil's food,3.92e-06,vine,Other
+shortening.n.02,decrease.n.04,9,4,shortening,decrease,shortening,1.41e-06,soup,Abstraction
+pathology.n.02,ill_health.n.01,8,4,pathology,ill health,pathology,3.72e-06,beggar,Abstraction
+whipping_cream.n.01,cream.n.02,8,4,whipping cream,cream,whipping cream,2.17e-06,cumulus,Substance
+evoked_potential.n.01,electric_potential.n.01,8,4,evoked potential,electric potential,evoked potential,1.3e-06,skeletal muscle,Other
+tact.n.01,consideration.n.04,8,4,tact,consideration,tact,1.2e-06,bedroom,Abstraction
+bugle.n.03,bead.n.01,9,4,bugle,bead,bugle,8.32e-07,rosid dicot genus,Artifact
+damper_block.n.01,damper.n.02,8,4,damper block,damper,damper block,8.61e-07,call,Artifact
+pitchfork.n.01,hand_tool.n.01,9,4,pitchfork,hand tool,pitchfork,1.02e-06,umber,Artifact
+heath_pea.n.01,vine.n.01,9,4,heath pea,vine,heath pea,2.58e-06,lastingness,Plant
+boil_smut.n.01,cornsmut.n.01,9,4,boil smut,cornsmut,boil smut,6.68e-07,sledding,Other
+cliffhanger.n.02,episode.n.03,8,4,cliffhanger,episode,cliffhanger,6.92e-07,exercise,Abstraction
+clementine.n.02,mandarin.n.05,9,4,clementine,mandarin,clementine,7.76e-07,creating from raw materials,Other
+cassava.n.02,root.n.01,8,4,cassava,root,cassava,6.31e-07,washup,Other
+camper_trailer.n.01,trailer.n.04,9,4,camper trailer,trailer,camper trailer,1.67e-06,part,Artifact
+charm_quark.n.01,quark.n.01,9,4,charm quark,quark,charm quark,1.03e-06,payment,Other
+detachment.n.02,separation.n.09,9,4,detachment,separation,detachment,2.88e-06,title,Abstraction
+billiard_room.n.01,room.n.01,8,4,billiard room,room,billiard room,7.22e-07,ferrocyanide,Artifact
+shyness.n.01,timidity.n.01,8,4,shyness,timidity,shyness,7.94e-07,generation,Abstraction
+wheat_gluten.n.01,gluten.n.01,8,4,wheat gluten,gluten,wheat gluten,2.96e-06,house,Abstraction
+allele.n.01,gene.n.01,8,4,allele,gene,allele,8.13e-07,humanistic discipline,Abstraction
+phalanx.n.01,bone.n.01,9,4,phalanx,bone,phalanx,7.08e-07,vine,Other
+orphan.n.04,young.n.01,8,4,orphan,young,orphan,3.8e-06,pie,Animal
+rectangle.n.01,parallelogram.n.01,9,4,rectangle,parallelogram,rectangle,1.74e-06,legal holiday,Abstraction
+water_fennel.n.01,poisonous_plant.n.01,8,4,water fennel,poisonous plant,water fennel,9.1e-07,couplet,Plant
+depth_finder.n.01,navigational_instrument.n.01,9,4,depth finder,navigational instrument,depth finder,1.81e-06,bill,Artifact
+septic_tank.n.01,tank.n.02,9,4,septic tank,tank,septic tank,1.55e-06,timidity,Artifact
+squash_pie.n.01,pie.n.01,8,4,squash pie,pie,squash pie,3.34e-06,practice,Other
+tinamou.n.01,game_bird.n.01,9,4,tinamou,game bird,tinamou,1.58e-06,tetracycline,Animal
+bathtub_gin.n.01,gin.n.01,9,4,bathtub gin,gin,bathtub gin,1.77e-06,bulletin,Substance
+temperate_zone.n.01,climatic_zone.n.01,8,4,temperate zone,climatic zone,temperate zone,2.05e-06,insertion,Other
+automaton.n.02,mechanism.n.05,8,4,automaton,mechanism,automaton,1.74e-05,flower,Artifact
+projection.n.01,prediction.n.01,9,4,projection,prediction,projection,6.17e-06,insertion,Abstraction
+delta_rhythm.n.01,brainwave.n.01,8,4,delta rhythm,brainwave,delta rhythm,1e-05,herb,Other
+ericaceae.n.01,ericales.n.01,8,4,ericaceae,ericales,ericaceae,5.68e-06,buffet,Abstraction
+rome_beauty.n.01,cooking_apple.n.01,9,4,rome beauty,cooking apple,rome beauty,1.88e-05,couple,Other
+confusion.n.04,combination.n.07,9,4,confusion,combination,confusion,1.55e-05,attire,Abstraction
+hindi.n.01,sanskrit.n.01,9,4,hindi,sanskrit,hindi,6.61e-06,rosid dicot genus,Abstraction
+moss.n.01,bryophyte.n.01,8,4,moss,bryophyte,moss,7.76e-06,humanistic discipline,Other
+court-martial.n.02,trial.n.04,8,4,court-martial,trial,court-martial,1.1e-05,humanistic discipline,Abstraction
+satisfaction.n.04,payment.n.01,8,4,satisfaction,payment,satisfaction,1.45e-05,rate,Abstraction
+congressional_record.n.01,minutes.n.01,8,4,congressional record,minutes,congressional record,1.41e-05,scarcity,Abstraction
+fancy_dress.n.01,costume.n.01,9,4,fancy dress,costume,fancy dress,1.61e-05,wind instrument,Artifact
+optical_disk.n.01,memory_device.n.01,8,4,optical disk,memory device,optical disk,6.28e-06,herb,Artifact
+punch_bowl.n.01,bowl.n.03,9,4,punch bowl,bowl,punch bowl,1.4e-05,trial,Artifact
+laser.n.01,optical_device.n.01,8,4,laser,optical device,laser,1.58e-05,inflammation,Artifact
+survivor_guilt.n.01,guilt.n.02,9,4,survivor guilt,guilt,survivor guilt,5.74e-06,cream,Abstraction
+pitcher.n.05,position.n.09,8,4,pitcher,position,pitcher,6.17e-06,game,Abstraction
+air_filter.n.01,filter.n.01,8,4,air filter,filter,air filter,1.76e-05,costume,Artifact
+soy_sauce.n.01,condiment.n.01,9,4,soy sauce,condiment,soy sauce,4.27e-06,chocolate cake,Substance
+mortar.n.03,vessel.n.03,8,4,mortar,vessel,mortar,5.62e-06,sulfide,Artifact
+drum.n.01,percussion_instrument.n.01,9,4,drum,percussion instrument,drum,1.29e-05,skeletal muscle,Artifact
+pipe.n.04,wind_instrument.n.01,9,4,pipe,wind instrument,pipe,1.78e-05,asterid dicot genus,Artifact
+nazism.n.01,fascism.n.01,8,4,nazism,fascism,nazism,7.41e-06,bone,Abstraction
+mushroom.n.03,basidiomycete.n.01,8,4,mushroom,basidiomycete,mushroom,4.27e-06,meagerness,Other
+sailing-race.n.01,boat_race.n.01,8,4,sailing-race,boat race,sailing-race,9.04e-06,seat,Abstraction
+cord.n.03,conductor.n.04,8,4,cord,conductor,cord,9.55e-06,ferrocyanide,Artifact
+pricing_system.n.01,system.n.07,9,4,pricing system,system,pricing system,1.06e-05,cream,Abstraction
+reverend.n.02,title.n.06,8,4,reverend,title,reverend,5.5e-06,filter,Abstraction
+realization.n.02,creating_by_mental_acts.n.01,8,4,realization,creating by mental acts,realization,5.25e-06,game,Abstraction
+ram.n.04,tool.n.01,8,4,ram,tool,ram,1.55e-05,dwelling,Artifact
+territorial.n.01,soldier.n.01,9,4,territorial,soldier,territorial,8.13e-06,topology,Person
+continuity.n.03,lastingness.n.01,8,4,continuity,lastingness,continuity,5.89e-06,soldier,Abstraction
+stock-index_futures.n.01,futures_contract.n.01,9,4,stock-index futures,futures contract,stock-index futures,5.46e-06,gliding joint,Abstraction
+wrist.n.01,gliding_joint.n.01,8,4,wrist,gliding joint,wrist,1.02e-05,futures contract,Other
+partial_verdict.n.01,verdict.n.01,9,4,partial verdict,verdict,partial verdict,6.21e-06,chest of drawers,Abstraction
+sliding_seat.n.01,seat.n.04,9,4,sliding seat,seat,sliding seat,6.67e-06,spending,Artifact
+field_magnet.n.01,magnet.n.01,8,4,field magnet,magnet,field magnet,5.21e-06,inflammation,Artifact
+deficit_spending.n.01,spending.n.01,9,4,deficit spending,spending,deficit spending,9.38e-06,conductor,Abstraction
+instrument_of_execution.n.01,instrument.n.01,8,4,instrument of execution,instrument,instrument of execution,9.41e-06,precipitation,Artifact
+climb.n.02,rise.n.04,8,4,climb,rise,climb,1.66e-05,detective,Abstraction
+distance_vision.n.01,sight.n.03,9,4,distance vision,sight,distance vision,2.66e-05,note,Abstraction
+law_practice.n.01,practice.n.04,8,4,law practice,practice,law practice,8.21e-05,industry,Abstraction
+inquiry.n.01,problem_solving.n.02,8,4,inquiry,problem solving,inquiry,0.000245,leather,Abstraction
+slow_match.n.01,match.n.01,9,4,slow match,match,slow match,4.64e-05,poisonous plant,Artifact
+base_hit.n.01,hit.n.01,9,4,base hit,hit,base hit,9.33e-05,flower,Abstraction
+ground_attack.n.01,attack.n.01,8,4,ground attack,attack,ground attack,6.58e-05,sulfide,Abstraction
+bath.n.02,washup.n.01,9,4,bath,washup,bath,2.75e-05,composing,Abstraction
+hotel_bill.n.01,bill.n.02,9,4,hotel bill,bill,hotel bill,5.46e-05,kind,Abstraction
+snow.n.01,precipitation.n.03,9,4,snow,precipitation,snow,4.57e-05,chamber,Other
+shower.n.02,washup.n.01,9,4,shower,washup,shower,3.16e-05,spending,Abstraction
+catch.n.08,game.n.03,8,4,catch,game,catch,7.41e-05,fondue,Abstraction
+philosophy.n.02,humanistic_discipline.n.01,8,4,philosophy,humanistic discipline,philosophy,3.09e-05,rate,Abstraction
+searching_fire.n.01,fire.n.02,9,4,searching fire,fire,searching fire,2.05e-05,guilt,Abstraction
+national_park_service.n.01,agency.n.01,8,4,national park service,agency,national park service,7.55e-05,hand tool,Abstraction
+may_apple.n.01,fruit.n.01,9,4,may apple,fruit,may apple,5.43e-05,coat of paint,Other
+fuel_cell.n.01,cell.n.03,9,4,fuel cell,cell,fuel cell,3.07e-05,decrease,Artifact
+land_line.n.01,telephone_line.n.02,8,4,land line,telephone line,land line,0.000108,scarcity,Artifact
+fire_watching.n.01,civil_defense.n.01,8,4,fire watching,civil defense,fire watching,6.87e-05,trailer,Abstraction
+solar_house.n.01,house.n.01,8,4,solar house,house,solar house,3.18e-05,fascism,Artifact
+pay_rate.n.01,rate.n.02,9,4,pay rate,rate,pay rate,8.91e-05,skeletal muscle,Abstraction
+tax_rate.n.01,rate.n.02,9,4,tax rate,rate,tax rate,6.9e-05,precipitation,Abstraction
+second_period.n.01,part.n.09,8,4,second period,part,second period,0.000118,brace,Abstraction
+replacement.n.01,substitution.n.02,8,4,replacement,substitution,replacement,2.75e-05,stalk,Abstraction
+recall.n.02,call.n.09,8,4,recall,call,recall,2.51e-05,dilleniid dicot genus,Abstraction
+manual_of_arms.n.01,exercise.n.03,8,4,manual of arms,exercise,manual of arms,2.09e-05,government building,Abstraction
+count.n.03,lord.n.03,8,4,count,lord,count,6.76e-05,match,Person
+news_bulletin.n.01,bulletin.n.01,8,4,news bulletin,bulletin,news bulletin,2.82e-05,position,Abstraction
+bank_holiday.n.01,legal_holiday.n.01,9,4,bank holiday,legal holiday,bank holiday,3.47e-05,couple,Abstraction
+star_topology.n.01,topology.n.04,9,4,star topology,topology,star topology,0.000155,bead,Abstraction
+palate.n.01,surface.n.02,8,4,palate,surface,palate,2.32e-05,fastener,Other
+flat_coat.n.01,coat_of_paint.n.01,8,4,flat coat,coat of paint,flat coat,0.000141,vessel,Artifact
+defense_intelligence_agency.n.01,military_intelligence.n.01,9,4,defense intelligence agency,military intelligence,defense intelligence agency,2.21e-05,rate,Abstraction
+section_eight.n.01,soldier.n.01,9,4,section eight,soldier,section eight,5.12e-05,bed,Person
+construction.n.01,creating_from_raw_materials.n.01,8,4,construction,creating from raw materials,construction,0.000195,factory,Abstraction
+automobile_factory.n.01,factory.n.01,9,4,automobile factory,factory,automobile factory,3.15e-05,sanskrit,Artifact
+log.n.05,measuring_instrument.n.01,9,4,log,measuring instrument,log,2.34e-05,agency,Artifact
+transmission.n.05,gear.n.03,9,4,transmission,gear,transmission,2.14e-05,fire,Artifact
+dick.n.01,detective.n.01,9,4,dick,detective,dick,5.01e-05,title,Person
+sector.n.06,measuring_instrument.n.01,9,4,sector,measuring instrument,sector,4.57e-05,rate,Artifact
+construction_industry.n.01,industry.n.01,8,4,construction industry,industry,construction industry,5.82e-05,larva,Abstraction
+tuille.n.01,armor_plate.n.01,10,5,tuille,armor plate,tuille,1e-09,fern,Artifact
+goldie's_fern.n.01,shield_fern.n.01,11,5,goldie's fern,shield fern,goldie's fern,6.24e-08,hose,Plant
+weighbridge.n.01,scale.n.07,10,5,weighbridge,scale,weighbridge,5.75e-08,pulmonary artery,Artifact
+bermuda_maidenhair.n.01,maidenhair.n.01,11,5,bermuda maidenhair,maidenhair,bermuda maidenhair,3.43e-08,jawless vertebrate,Plant
+backsword.n.02,sword.n.01,10,5,backsword,sword,backsword,1e-09,boat racing,Artifact
+guayule.n.01,subshrub.n.01,11,5,guayule,subshrub,guayule,1.15e-08,manzanita,Plant
+bugloss.n.01,anchusa.n.01,10,5,bugloss,anchusa,bugloss,1.38e-08,major scale,Plant
+galvanometer.n.01,meter.n.02,10,5,galvanometer,meter,galvanometer,5.37e-08,missile,Artifact
+radiolarian.n.01,actinopod.n.01,11,5,radiolarian,actinopod,radiolarian,2.45e-08,bean,Other
+dumpcart.n.01,cart.n.01,10,5,dumpcart,cart,dumpcart,1e-09,campaign,Artifact
+overcompensation.n.02,compensation.n.01,10,5,overcompensation,compensation,overcompensation,4.68e-08,pinnate leaf,Abstraction
+laparoscope.n.01,endoscope.n.01,10,5,laparoscope,endoscope,laparoscope,2.57e-08,ballroom dancing,Artifact
+hairy_willowherb.n.01,willowherb.n.01,10,5,hairy willowherb,willowherb,hairy willowherb,1.4e-08,nettle,Plant
+bumboat.n.01,boat.n.01,11,5,bumboat,boat,bumboat,1e-09,bench,Artifact
+supertwister.n.01,tornado.n.01,11,5,supertwister,tornado,supertwister,1e-09,pulmonary artery,Other
+turbogenerator.n.01,generator.n.02,11,5,turbogenerator,generator,turbogenerator,1e-09,hose,Artifact
+craniometry.n.01,physical_anthropology.n.01,11,5,craniometry,physical anthropology,craniometry,1e-09,modality,Abstraction
+heterostracan.n.01,jawless_vertebrate.n.01,11,5,heterostracan,jawless vertebrate,heterostracan,1e-09,hydrangea,Animal
+sackbut.n.01,trombone.n.01,11,5,sackbut,trombone,sackbut,2.51e-08,tolerance,Artifact
+goldbrick.n.04,fraud.n.03,11,5,goldbrick,fraud,goldbrick,1e-09,genetic disease,Abstraction
+bipinnate_leaf.n.01,pinnate_leaf.n.01,10,5,bipinnate leaf,pinnate leaf,bipinnate leaf,2.34e-08,review,Other
+automysophobia.n.01,simple_phobia.n.01,11,5,automysophobia,simple phobia,automysophobia,1e-09,fern,Abstraction
+sericea_lespedeza.n.01,bush_clover.n.01,10,5,sericea lespedeza,bush clover,sericea lespedeza,1.42e-08,endoscope,Plant
+fosbury_flop.n.01,high_jump.n.02,11,5,fosbury flop,high jump,fosbury flop,1.85e-08,genetic disease,Abstraction
+euthenics.n.01,life_science.n.01,10,5,euthenics,life science,euthenics,1e-09,shrub,Abstraction
+mammillaria.n.01,cactus.n.01,10,5,mammillaria,cactus,mammillaria,1.82e-08,criticism,Plant
+diathermy.n.01,modality.n.04,10,5,diathermy,modality,diathermy,3.02e-08,compensation,Abstraction
+shittah.n.01,acacia.n.01,11,5,shittah,acacia,shittah,1e-09,shrub,Plant
+hypophysectomy.n.01,ablation.n.01,10,5,hypophysectomy,ablation,hypophysectomy,1e-09,dip,Abstraction
+hygrocybe_acutoconica.n.01,waxycap.n.01,10,5,hygrocybe acutoconica,waxycap,hygrocybe acutoconica,1e-09,rail fence,Other
+nevoid_elephantiasis.n.01,genetic_disease.n.01,10,5,nevoid elephantiasis,genetic disease,nevoid elephantiasis,1e-09,lamb,Abstraction
+musculus_articularis_genus.n.01,articular_muscle.n.01,10,5,musculus articularis genus,articular muscle,musculus articularis genus,1e-09,packing,Other
+epee.n.01,fencing_sword.n.01,11,5,epee,fencing sword,epee,6.31e-08,snow,Artifact
+fraud_in_the_factum.n.01,fraud.n.01,10,5,fraud in the factum,fraud,fraud in the factum,5.87e-08,sword,Abstraction
+othonna.n.01,shrub.n.01,10,5,othonna,shrub,othonna,1e-09,shield fern,Plant
+hornpipe.n.01,folk_dancing.n.01,10,5,hornpipe,folk dancing,hornpipe,5.37e-08,fern,Abstraction
+chancroid.n.01,ulcer.n.01,11,5,chancroid,ulcer,chancroid,1.66e-08,grass,Abstraction
+wordbook.n.01,reference_book.n.01,11,5,wordbook,reference book,wordbook,1e-09,fraud,Artifact
+cardiogenic_shock.n.01,shock.n.04,11,5,cardiogenic shock,shock,cardiogenic shock,5.24e-08,iridaceous plant,Abstraction
+monoplegia.n.01,paralysis.n.01,11,5,monoplegia,paralysis,monoplegia,1e-09,spar,Abstraction
+chicken_roundworm.n.01,nematode.n.01,10,5,chicken roundworm,nematode,chicken roundworm,7.75e-08,wheel,Animal
+bog_pimpernel.n.01,pimpernel.n.02,10,5,bog pimpernel,pimpernel,bog pimpernel,1.48e-07,review,Plant
+amontillado.n.01,sherry.n.01,10,5,amontillado,sherry,amontillado,9.12e-08,generator,Substance
+bracken.n.01,fern.n.01,10,5,bracken,fern,bracken,6.03e-07,cactus,Plant
+stargazing.n.01,observation.n.02,10,5,stargazing,observation,stargazing,3.09e-07,reference book,Abstraction
+gerrymander.n.01,cheat.n.05,10,5,gerrymander,cheat,gerrymander,1.15e-07,meter,Abstraction
+concertina.n.02,free-reed_instrument.n.01,10,5,concertina,free-reed instrument,concertina,1.86e-07,bomber,Artifact
+mistletoe_fig.n.01,fig_tree.n.01,11,5,mistletoe fig,fig tree,mistletoe fig,6.17e-07,sauce,Plant
+downy_manzanita.n.01,manzanita.n.01,11,5,downy manzanita,manzanita,downy manzanita,1.02e-07,striker,Plant
+richweed.n.02,nettle.n.01,10,5,richweed,nettle,richweed,5.11e-07,shop,Plant
+beckman_thermometer.n.01,mercury_thermometer.n.01,11,5,beckman thermometer,mercury thermometer,beckman thermometer,4.35e-07,oak,Artifact
+clammy_locust.n.01,locust_tree.n.01,11,5,clammy locust,locust tree,clammy locust,2.28e-07,ablation,Plant
+topside.n.01,weather_deck.n.01,11,5,topside,weather deck,topside,2.57e-07,merging,Artifact
+amur_privet.n.01,privet.n.01,11,5,amur privet,privet,amur privet,1.14e-07,indian paintbrush,Plant
+styrene.n.01,vinyl_polymer.n.01,10,5,styrene,vinyl polymer,styrene,3.47e-07,alimentary tract smear,Abstraction
+hydroplane_racing.n.01,boat_racing.n.01,10,5,hydroplane racing,boat racing,hydroplane racing,8.89e-08,organ pipe,Abstraction
+electronic_voltmeter.n.01,voltmeter.n.01,11,5,electronic voltmeter,voltmeter,electronic voltmeter,1.02e-07,sauce,Artifact
+perfumery.n.02,shop.n.01,10,5,perfumery,shop,perfumery,1.86e-07,restoration,Artifact
+bundling.n.02,packing.n.02,11,5,bundling,packing,bundling,4.79e-07,monarda,Abstraction
+throatwort.n.01,campanula.n.01,10,5,throatwort,campanula,throatwort,1.02e-07,locust tree,Plant
+goalpost.n.01,post.n.04,11,5,goalpost,post,goalpost,1.82e-07,observation,Artifact
+false_wintergreen.n.01,wintergreen.n.01,10,5,false wintergreen,wintergreen,false wintergreen,2.28e-07,life science,Plant
+great_plains_paintbrush.n.01,indian_paintbrush.n.02,10,5,great plains paintbrush,indian paintbrush,great plains paintbrush,3.95e-07,pulmonary artery,Plant
+newel_post.n.01,post.n.04,11,5,newel post,post,newel post,7.59e-08,siamese cat,Artifact
+chateaubriand.n.02,fillet.n.01,10,5,chateaubriand,fillet,chateaubriand,1.35e-07,voltmeter,Other
+basilisk.n.01,mythical_monster.n.01,10,5,basilisk,mythical monster,basilisk,2.63e-07,spar,Abstraction
+climbing_hydrangea.n.03,hydrangea.n.01,11,5,climbing hydrangea,hydrangea,climbing hydrangea,2.3e-07,motion-picture camera,Plant
+freedom_from_self-incrimination.n.01,civil_right.n.01,11,5,freedom from self-incrimination,civil right,freedom from self-incrimination,2.56e-07,wintergreen,Abstraction
+examen.n.02,criticism.n.02,10,5,examen,criticism,examen,8.13e-08,club moss,Abstraction
+ophthalmic_artery.n.01,artery.n.01,10,5,ophthalmic artery,artery,ophthalmic artery,4.32e-07,locomotive,Other
+manzanita.n.01,shrub.n.01,10,5,manzanita,shrub,manzanita,1.12e-07,iris,Plant
+whiteout.n.01,snow.n.01,10,5,whiteout,snow,whiteout,2.09e-07,locust tree,Other
+sidewinder.n.02,missile.n.01,10,5,sidewinder,missile,sidewinder,2.95e-07,modality,Artifact
+sacral_vertebra.n.01,vertebra.n.01,10,5,sacral vertebra,vertebra,sacral vertebra,2.12e-07,fipple flute,Other
+external_iliac_artery.n.01,iliac_artery.n.01,11,5,external iliac artery,iliac artery,external iliac artery,2.16e-07,campaign,Other
+pruritus_ani.n.01,pruritus.n.01,11,5,pruritus ani,pruritus,pruritus ani,1.03e-07,fraud,Abstraction
+rearward.n.01,rear.n.02,10,5,rearward,rear,rearward,2.24e-07,ballroom dancing,Other
+montezuma.n.01,tree.n.01,10,5,montezuma,tree,montezuma,3.24e-07,thermometer,Plant
+sapling.n.01,tree.n.01,10,5,sapling,tree,sapling,3.02e-07,cactus,Plant
+seaside_goldenrod.n.01,goldenrod.n.01,10,5,seaside goldenrod,goldenrod,seaside goldenrod,1.69e-07,fig tree,Plant
+gastric_smear.n.01,alimentary_tract_smear.n.01,10,5,gastric smear,alimentary tract smear,gastric smear,1.18e-06,damages,Other
+linguistics_department.n.01,academic_department.n.01,10,5,linguistics department,academic department,linguistics department,2.65e-06,nematode,Abstraction
+coronary_bypass.n.01,open-heart_surgery.n.01,11,5,coronary bypass,open-heart surgery,coronary bypass,1.78e-06,mythical monster,Abstraction
+vox_angelica.n.01,organ_stop.n.01,11,5,vox angelica,organ stop,vox angelica,7.13e-07,subshrub,Artifact
+consumerism.n.02,campaign.n.02,10,5,consumerism,campaign,consumerism,9.55e-07,covalent bond,Abstraction
+dwarf_iris.n.02,iris.n.01,11,5,dwarf iris,iris,dwarf iris,2.84e-06,sweet pepper,Plant
+matrix_inversion.n.01,matrix_operation.n.01,10,5,matrix inversion,matrix operation,matrix inversion,1.58e-06,willowherb,Abstraction
+creeping_bugle.n.01,bugle.n.02,10,5,creeping bugle,bugle,creeping bugle,6.74e-07,actinopod,Plant
+hijab.n.01,headscarf.n.01,11,5,hijab,headscarf,hijab,1.41e-06,shrub,Artifact
+skye_terrier.n.01,terrier.n.01,11,5,skye terrier,terrier,skye terrier,9.78e-07,alimentary tract smear,Animal
+edging.n.01,border.n.05,10,5,edging,border,edging,1.41e-06,oil lamp,Other
+admiralty.n.01,government_department.n.01,10,5,admiralty,government department,admiralty,2.75e-06,mercury thermometer,Abstraction
+basket_fern.n.01,sword_fern.n.01,11,5,basket fern,sword fern,basket fern,1.61e-06,fipple flute,Plant
+common_carotid_artery.n.01,carotid_artery.n.01,11,5,common carotid artery,carotid artery,common carotid artery,7.9e-07,balance,Other
+blue_point_siamese.n.01,siamese_cat.n.01,10,5,blue point siamese,siamese cat,blue point siamese,9.24e-07,iris,Animal
+pulmonary_trunk.n.01,pulmonary_artery.n.01,11,5,pulmonary trunk,pulmonary artery,pulmonary trunk,2.44e-06,common fraction,Other
+rosewood.n.02,tree.n.01,10,5,rosewood,tree,rosewood,9.77e-07,simple phobia,Plant
+p-n-p_transistor.n.01,transistor.n.01,10,5,p-n-p transistor,transistor,p-n-p transistor,1.57e-06,beetle,Artifact
+obliviousness.n.01,forgetfulness.n.02,10,5,obliviousness,forgetfulness,obliviousness,2.09e-06,packing,Abstraction
+meat_thermometer.n.01,thermometer.n.01,10,5,meat thermometer,thermometer,meat thermometer,1.6e-06,bugle,Artifact
+coffee_urn.n.01,urn.n.02,10,5,coffee urn,urn,coffee urn,1.7e-06,cart,Artifact
+airship.n.01,lighter-than-air_craft.n.01,11,5,airship,lighter-than-air craft,airship,7.59e-07,door,Artifact
+carob.n.01,bean.n.02,11,5,carob,bean,carob,9.05e-07,endoscope,Other
+benign_tumor.n.01,tumor.n.01,11,5,benign tumor,tumor,benign tumor,2.4e-06,fig tree,Abstraction
+promenade.n.03,country-dance.n.01,11,5,promenade,country-dance,promenade,1.48e-06,reference book,Abstraction
+cranial_nerve.n.01,nerve.n.01,10,5,cranial nerve,nerve,cranial nerve,9.19e-07,restoration,Other
+minniebush.n.01,shrub.n.01,10,5,minniebush,shrub,minniebush,2.04e-06,edging,Plant
+hypoglossal.n.01,cranial_nerve.n.01,11,5,hypoglossal,cranial nerve,hypoglossal,7.16e-07,proprioception,Other
+ratchet_wheel.n.01,wheel.n.01,11,5,ratchet wheel,wheel,ratchet wheel,1.35e-06,criticism,Artifact
+pheasant.n.01,phasianid.n.01,10,5,pheasant,phasianid,pheasant,1.07e-06,maidenhair,Animal
+clinch.n.02,noose.n.02,10,5,clinch,noose,clinch,1.95e-06,sweet pepper,Abstraction
+basil_balm.n.01,monarda.n.01,10,5,basil balm,monarda,basil balm,1.27e-06,bamboo,Plant
+lenience.n.03,tolerance.n.03,11,5,lenience,tolerance,lenience,6.61e-07,surveillance,Abstraction
+concourse.n.03,merging.n.01,11,5,concourse,merging,concourse,1.32e-06,standard cell,Abstraction
+broom_grass.n.01,grass.n.01,11,5,broom grass,grass,broom grass,2.37e-06,pulmonary artery,Plant
+psalter.n.01,prayer_book.n.01,11,5,psalter,prayer book,psalter,2.07e-06,key,Artifact
+beech_fern.n.01,fern.n.01,10,5,beech fern,fern,beech fern,9.31e-07,standard cell,Plant
+clam_dip.n.01,dip.n.04,10,5,clam dip,dip,clam dip,1.45e-06,bird of prey,Substance
+turner's_syndrome.n.01,sex-linked_disorder.n.01,10,5,turner's syndrome,sex-linked disorder,turner's syndrome,8.47e-07,stroke,Abstraction
+steam_locomotive.n.01,locomotive.n.01,10,5,steam locomotive,locomotive,steam locomotive,2.89e-06,specialist,Artifact
+adult_respiratory_distress_syndrome.n.01,respiratory_disease.n.01,11,5,adult respiratory distress syndrome,respiratory disease,adult respiratory distress syndrome,1.21e-05,hydrangea,Abstraction
+vector_algebra.n.01,algebra.n.01,11,5,vector algebra,algebra,vector algebra,3.67e-06,shrub,Abstraction
+american_turkey_oak.n.01,oak.n.02,11,5,american turkey oak,oak,american turkey oak,1.07e-05,packing,Plant
+tornado.n.01,cyclone.n.02,10,5,tornado,cyclone,tornado,6.61e-06,terrier,Other
+fringe.n.06,edging.n.01,11,5,fringe,edging,fringe,7.24e-06,pinnate leaf,Other
+chili_dog.n.01,hotdog.n.02,10,5,chili dog,hotdog,chili dog,5.15e-06,misery,Substance
+weston_cell.n.01,standard_cell.n.01,11,5,weston cell,standard cell,weston cell,2.97e-06,bomber,Artifact
+pennywhistle.n.01,fipple_flute.n.01,11,5,pennywhistle,fipple flute,pennywhistle,7.59e-06,civil right,Artifact
+organic_chemistry.n.01,chemistry.n.01,10,5,organic chemistry,chemistry,organic chemistry,1.18e-05,cart,Abstraction
+bicarbonate_of_soda.n.01,bicarbonate.n.01,10,5,bicarbonate of soda,bicarbonate,bicarbonate of soda,4.73e-06,balance,Abstraction
+persian_lamb.n.02,lamb.n.01,10,5,persian lamb,lamb,persian lamb,4.11e-06,nematode,Animal
+surf_casting.n.01,casting.n.03,11,5,surf casting,casting,surf casting,5.82e-06,monarda,Abstraction
+saddle_sore.n.01,animal_disease.n.01,11,5,saddle sore,animal disease,saddle sore,3.47e-06,goldenrod,Abstraction
+swipe.n.01,stroke.n.01,10,5,swipe,stroke,swipe,3.8e-06,free-reed instrument,Abstraction
+sheet_anchor.n.01,anchor.n.01,11,5,sheet anchor,anchor,sheet anchor,7.39e-06,ablation,Artifact
+crab.n.01,decapod_crustacean.n.01,11,5,crab,decapod crustacean,crab,5.75e-06,football play,Animal
+common_bamboo.n.01,bamboo.n.02,11,5,common bamboo,bamboo,common bamboo,4.34e-06,tree,Plant
+ground_beetle.n.01,beetle.n.01,11,5,ground beetle,beetle,ground beetle,3.31e-06,flower,Animal
+ambulance.n.01,car.n.01,11,5,ambulance,car,ambulance,1.15e-05,folk dancing,Artifact
+one-ninth.n.01,common_fraction.n.01,10,5,one-ninth,common fraction,one-ninth,1.17e-05,bamboo,Abstraction
+bunny_hug.n.01,ballroom_dancing.n.01,10,5,bunny hug,ballroom dancing,bunny hug,4.69e-06,balance,Abstraction
+palm_nut.n.01,nut.n.01,11,5,palm nut,nut,palm nut,6.66e-06,lamb,Other
+anglo-french.n.01,french.n.01,10,5,anglo-french,french,anglo-french,6.13e-06,rear,Abstraction
+swamp_ash.n.01,ash.n.02,11,5,swamp ash,ash,swamp ash,4.68e-06,trombone,Plant
+dive_bomber.n.01,bomber.n.01,11,5,dive bomber,bomber,dive bomber,4.82e-06,thermometer,Artifact
+reclamation.n.01,restoration.n.02,11,5,reclamation,restoration,reclamation,9.77e-06,specialist,Abstraction
+module.n.03,computer_circuit.n.01,10,5,module,computer circuit,module,7.76e-06,campanula,Artifact
+psychiatrist.n.01,specialist.n.02,10,5,psychiatrist,specialist,psychiatrist,5.37e-06,balance,Person
+safety_lamp.n.01,oil_lamp.n.01,10,5,safety lamp,oil lamp,safety lamp,1e-05,snow,Artifact
+analog_watch.n.01,watch.n.01,11,5,analog watch,watch,analog watch,5.24e-06,vertebra,Artifact
+daisy.n.01,flower.n.01,11,5,daisy,flower,daisy,6.03e-06,hotdog,Plant
+worm_fence.n.01,rail_fence.n.01,10,5,worm fence,rail fence,worm fence,1.17e-05,locomotive,Artifact
+electronic_surveillance.n.01,surveillance.n.01,10,5,electronic surveillance,surveillance,electronic surveillance,1.04e-05,spar,Abstraction
+garden_hose.n.01,hose.n.03,10,5,garden hose,hose,garden hose,4.92e-06,rail fence,Artifact
+razing.n.02,destruction.n.01,10,5,razing,destruction,razing,6.12e-06,fig tree,Abstraction
+common_facial_vein.n.01,vein.n.01,10,5,common facial vein,vein,common facial vein,3.91e-06,edging,Other
+reed_pipe.n.01,organ_pipe.n.01,10,5,reed pipe,organ pipe,reed pipe,7.07e-06,covalent bond,Artifact
+flat_pea.n.02,everlasting_pea.n.01,10,5,flat pea,everlasting pea,flat pea,3.25e-06,catcher's mask,Plant
+spikemoss.n.01,club_moss.n.01,11,5,spikemoss,club moss,spikemoss,7.3e-06,shrub,Plant
+scissors.n.01,edge_tool.n.01,10,5,scissors,edge tool,scissors,3.8e-06,organ pipe,Artifact
+bar_mask.n.01,catcher's_mask.n.01,10,5,bar mask,catcher's mask,bar mask,1.65e-05,major scale,Artifact
+living_death.n.01,misery.n.01,10,5,living death,misery,living death,0.000111,mercury thermometer,Abstraction
+literary_review.n.01,review.n.06,11,5,literary review,review,literary review,1.77e-05,club moss,Artifact
+power_play.n.02,football_play.n.01,10,5,power play,football play,power play,0.000183,sweet pepper,Abstraction
+swing_door.n.01,door.n.01,10,5,swing door,door,swing door,1.85e-05,shock,Artifact
+double_bond.n.01,covalent_bond.n.01,10,5,double bond,covalent bond,double bond,2.82e-05,shield fern,Other
+shift_key.n.01,key.n.15,10,5,shift key,key,shift key,3.72e-05,headscarf,Artifact
+boom.n.05,spar.n.02,10,5,boom,spar,boom,2.14e-05,siamese cat,Artifact
+hunter.n.04,watch.n.01,11,5,hunter,watch,hunter,2.35e-05,pinnate leaf,Artifact
+coffee_bean.n.01,seed.n.01,10,5,coffee bean,seed,coffee bean,7.24e-05,carotid artery,Other
+atonement.n.01,damages.n.01,11,5,atonement,damages,atonement,1.45e-05,hotel room,Abstraction
+cheese_spread.n.01,spread.n.05,10,5,cheese spread,spread,cheese spread,2.36e-05,key,Substance
+green_pepper.n.01,sweet_pepper.n.02,10,5,green pepper,sweet pepper,green pepper,1.25e-05,locomotive,Other
+freedom_of_religion.n.01,civil_right.n.01,11,5,freedom of religion,civil right,freedom of religion,3.12e-05,shield fern,Abstraction
+party_line.n.01,policy.n.02,10,5,party line,policy,party line,0.000155,fillet,Abstraction
+window_seat.n.01,bench.n.01,10,5,window seat,bench,window seat,3.23e-05,border,Artifact
+iris.n.01,iridaceous_plant.n.01,10,5,iris,iridaceous plant,iris,3.8e-05,specialist,Plant
+use.n.07,legal_right.n.01,10,5,use,legal right,use,0.000646,manzanita,Abstraction
+goal.n.04,score.n.10,10,5,goal,score,goal,0.000115,reference book,Abstraction
+witness_box.n.01,box.n.09,10,5,witness box,box,witness box,2.67e-05,hotel room,Artifact
+arm_exercise.n.01,exercise.n.01,10,5,arm exercise,exercise,arm exercise,2.53e-05,campanula,Abstraction
+owl.n.01,bird_of_prey.n.01,11,5,owl,bird of prey,owl,3.86e-05,scale,Animal
+electronic_balance.n.01,balance.n.12,11,5,electronic balance,balance,electronic balance,2.19e-05,iliac artery,Artifact
+smooth_plane.n.01,plane.n.05,10,5,smooth plane,plane,smooth plane,1.7e-05,voltmeter,Artifact
+shiner.n.01,bruise.n.01,10,5,shiner,bruise,shiner,7.68e-05,fillet,Abstraction
+ear_doctor.n.01,specialist.n.02,10,5,ear doctor,specialist,ear doctor,2.01e-05,catcher's mask,Person
+dressing.n.01,sauce.n.01,10,5,dressing,sauce,dressing,1.48e-05,artery,Substance
+box.n.06,shrub.n.01,10,5,box,shrub,box,0.00011,restoration,Plant
+clapper.n.03,striker.n.05,10,5,clapper,striker,clapper,2.34e-05,ablation,Artifact
+source_book.n.01,reference_book.n.01,11,5,source book,reference book,source book,9.26e-05,carotid artery,Artifact
+connecting_room.n.01,hotel_room.n.01,10,5,connecting room,hotel room,connecting room,1.37e-05,restoration,Artifact
+c_major.n.01,major_scale.n.01,11,5,c major,major scale,c major,0.000103,ash,Abstraction
+kinesthesis.n.01,proprioception.n.01,10,5,kinesthesis,proprioception,kinesthesis,5.81e-05,lamb,Abstraction
+lp.n.01,phonograph_record.n.01,11,5,lp,phonograph record,lp,7.13e-05,ulcer,Artifact
+knit.n.02,knitting_stitch.n.01,10,5,knit,knitting stitch,knit,2.69e-05,iridaceous plant,Artifact
+sound_camera.n.01,motion-picture_camera.n.01,10,5,sound camera,motion-picture camera,sound camera,4.86e-05,thermometer,Artifact
+submarine.n.01,submersible.n.02,11,5,submarine,submersible,submarine,4.57e-05,animal disease,Artifact
+corporation_law.n.01,jurisprudence.n.01,10,5,corporation law,jurisprudence,corporation law,3.43e-05,respiratory disease,Abstraction
+jerusalem_oak.n.01,goosefoot.n.01,10,5,jerusalem oak,goosefoot,jerusalem oak,1.74e-05,iliac artery,Plant
+live_oak.n.01,oak.n.02,11,5,live oak,oak,live oak,1.45e-05,iliac artery,Plant
+western_chokecherry.n.01,chokecherry.n.02,14,6,western chokecherry,chokecherry,western chokecherry,2.24e-08,scombroid,Plant
+fore-topmast.n.01,topmast.n.01,12,6,fore-topmast,topmast,fore-topmast,3.2e-08,agamid,Artifact
+cottonwick.n.01,grunt.n.03,16,6,cottonwick,grunt,cottonwick,1e-09,true frog,Animal
+intermittent_claudication.n.01,lameness.n.01,12,6,intermittent claudication,lameness,intermittent claudication,3.27e-08,thrush,Abstraction
+seneca_snakeroot.n.01,milkwort.n.01,12,6,seneca snakeroot,milkwort,seneca snakeroot,2.9e-08,jet,Plant
+woolly_indris.n.01,lemur.n.01,13,6,woolly indris,lemur,woolly indris,1e-09,bristletail,Animal
+aperea.n.01,cavy.n.01,13,6,aperea,cavy,aperea,3.71e-08,pocketknife,Animal
+american_twinflower.n.01,twinflower.n.01,12,6,american twinflower,twinflower,american twinflower,1.9e-08,wild cherry,Plant
+calosoma.n.01,ground_beetle.n.01,12,6,calosoma,ground beetle,calosoma,1e-09,grunt,Animal
+bewick's_swan.n.01,tundra_swan.n.01,13,6,bewick's swan,tundra swan,bewick's swan,1.86e-08,paleobotany,Animal
+bletilla_striata.n.01,orchid.n.01,12,6,bletilla striata,orchid,bletilla striata,1e-09,portable computer,Plant
+mylodontid.n.01,edentate.n.01,12,6,mylodontid,edentate,mylodontid,1e-09,lemur,Animal
+helleborine.n.03,orchid.n.01,12,6,helleborine,orchid,helleborine,1e-09,agamid,Plant
+maleo.n.01,megapode.n.01,12,6,maleo,megapode,maleo,1e-09,lemur,Animal
+south-african_yellowwood.n.01,gymnospermous_yellowwood.n.01,12,6,south-african yellowwood,gymnospermous yellowwood,south-african yellowwood,1.58e-08,orchid,Plant
+phacoemulsification.n.01,extracapsular_surgery.n.01,12,6,phacoemulsification,extracapsular surgery,phacoemulsification,1.91e-08,fruit tree,Abstraction
+iguanid.n.01,lizard.n.01,13,6,iguanid,lizard,iguanid,1e-09,bristletail,Animal
+anguid_lizard.n.01,lizard.n.01,13,6,anguid lizard,lizard,anguid lizard,1e-09,spider mite,Animal
+megaloblastic_anemia.n.01,pernicious_anemia.n.01,13,6,megaloblastic anemia,pernicious anemia,megaloblastic anemia,2.31e-08,topmast,Abstraction
+myxine_glutinosa.n.01,hagfish.n.01,12,6,myxine glutinosa,hagfish,myxine glutinosa,1e-09,scombroid,Animal
+mylodon.n.01,edentate.n.01,12,6,mylodon,edentate,mylodon,1e-09,earless seal,Animal
+escolar.n.01,gempylid.n.01,16,6,escolar,gempylid,escolar,3.89e-08,weaver,Animal
+siamang.n.01,lesser_ape.n.01,15,6,siamang,lesser ape,siamang,1.23e-08,lizard,Animal
+keratoacanthoma.n.01,acanthoma.n.01,12,6,keratoacanthoma,acanthoma,keratoacanthoma,1e-09,fruit tree,Abstraction
+avadavat.n.01,weaver.n.02,13,6,avadavat,weaver,avadavat,1e-09,pachyderm,Animal
+rickettsialpox.n.01,rickettsial_disease.n.01,13,6,rickettsialpox,rickettsial disease,rickettsialpox,1e-09,autosomal dominant disease,Abstraction
+odontoglossum.n.01,orchid.n.01,12,6,odontoglossum,orchid,odontoglossum,2.4e-08,lameness,Plant
+erythema_nodosum.n.01,erythema.n.01,13,6,erythema nodosum,erythema,erythema nodosum,2.48e-08,conifer,Abstraction
+piked_reverse_hang.n.01,reverse_hang.n.01,13,6,piked reverse hang,reverse hang,piked reverse hang,2.57e-08,spice tree,Abstraction
+firebrat.n.01,bristletail.n.01,12,6,firebrat,bristletail,firebrat,1e-09,abatement of a nuisance,Animal
+pulasan.n.01,fruit_tree.n.01,12,6,pulasan,fruit tree,pulasan,1e-09,musteline mammal,Plant
+sweetsop.n.01,custard_apple.n.01,13,6,sweetsop,custard apple,sweetsop,1.29e-08,raccoon,Plant
+common_winterberry_holly.n.01,holly.n.01,12,6,common winterberry holly,holly,common winterberry holly,1.9e-08,wild plum,Plant
+southernwood.n.01,wormwood.n.01,12,6,southernwood,wormwood,southernwood,1.07e-08,old world porcupine,Plant
+tenrec.n.01,insectivore.n.01,12,6,tenrec,insectivore,tenrec,1e-09,petrel,Animal
+black_turnstone.n.01,turnstone.n.01,15,6,black turnstone,turnstone,black turnstone,3.02e-08,pernicious anemia,Animal
+roadbook.n.01,guidebook.n.01,13,6,roadbook,guidebook,roadbook,1e-09,wrasse,Artifact
+paleodendrology.n.01,paleobotany.n.01,13,6,paleodendrology,paleobotany,paleodendrology,1e-09,domestic sheep,Abstraction
+broadax.n.01,ax.n.01,12,6,broadax,ax,broadax,1e-09,woodruff,Artifact
+brassavola.n.01,orchid.n.01,12,6,brassavola,orchid,brassavola,1e-09,greenling,Plant
+zebu.n.01,brahman.n.04,17,6,zebu,brahman,zebu,6.03e-08,omega-3 fatty acid,Animal
+howler_monkey.n.01,new_world_monkey.n.01,14,6,howler monkey,new world monkey,howler monkey,3.24e-07,saddle horse,Animal
+minuteman.n.02,intercontinental_ballistic_missile.n.01,12,6,minuteman,intercontinental ballistic missile,minuteman,3.09e-07,meteorological balloon,Artifact
+keyhole_limpet.n.01,limpet.n.02,12,6,keyhole limpet,limpet,keyhole limpet,1.41e-07,anemone,Animal
+storm_petrel.n.01,petrel.n.01,14,6,storm petrel,petrel,storm petrel,1.62e-07,weasel,Animal
+mastodon.n.01,proboscidean.n.01,12,6,mastodon,proboscidean,mastodon,3.55e-07,extracapsular surgery,Animal
+oxeye_daisy.n.01,composite.n.02,12,6,oxeye daisy,composite,oxeye daisy,3.68e-07,antbird,Plant
+goshawk.n.01,hawk.n.01,12,6,goshawk,hawk,goshawk,1.26e-07,anchovy,Animal
+yawl.n.01,small_boat.n.01,12,6,yawl,small boat,yawl,1.1e-07,saint anthony's fire,Artifact
+corn_speedwell.n.01,veronica.n.01,12,6,corn speedwell,veronica,corn speedwell,8.09e-08,spiny dogfish,Plant
+red_eft.n.01,newt.n.01,12,6,red eft,newt,red eft,3.54e-07,mackerel shark,Animal
+purulent_pleurisy.n.01,pleurisy.n.01,12,6,purulent pleurisy,pleurisy,purulent pleurisy,4.84e-08,thrush,Abstraction
+grosbeak.n.01,finch.n.01,13,6,grosbeak,finch,grosbeak,5.75e-08,rotary engine,Animal
+jetliner.n.01,jet.n.01,13,6,jetliner,jet,jetliner,1.17e-07,zoonosis,Artifact
+tillage.n.02,culture.n.07,12,6,tillage,culture,tillage,2.24e-07,late blight,Abstraction
+mediterranean_anchovy.n.01,anchovy.n.02,15,6,mediterranean anchovy,anchovy,mediterranean anchovy,3.66e-07,lemur,Animal
+cheviot.n.01,domestic_sheep.n.01,17,6,cheviot,domestic sheep,cheviot,1.38e-07,elapid,Animal
+sailfish.n.02,scombroid.n.01,16,6,sailfish,scombroid,sailfish,1.74e-07,paleobotany,Animal
+hemolytic_anemia.n.01,anemia.n.01,12,6,hemolytic anemia,anemia,hemolytic anemia,1.87e-07,pied lemming,Abstraction
+hudson_bay_collared_lemming.n.01,pied_lemming.n.01,14,6,hudson bay collared lemming,pied lemming,hudson bay collared lemming,1.59e-07,beardless iris,Animal
+ermine.n.02,weasel.n.02,14,6,ermine,weasel,ermine,2.88e-07,paleobotany,Animal
+siberian_larch.n.01,larch.n.02,13,6,siberian larch,larch,siberian larch,3.02e-07,vole,Plant
+frilled_lizard.n.01,agamid.n.01,14,6,frilled lizard,agamid,frilled lizard,1.09e-07,thrush,Animal
+agueweed.n.01,gentian.n.01,12,6,agueweed,gentian,agueweed,1.36e-07,topmast,Plant
+contrabassoon.n.01,bassoon.n.01,13,6,contrabassoon,bassoon,contrabassoon,3.38e-07,sterculia,Artifact
+dyer's_woodruff.n.01,woodruff.n.02,12,6,dyer's woodruff,woodruff,dyer's woodruff,1e-07,weaver,Plant
+rattlesnake_plantain.n.01,orchid.n.01,12,6,rattlesnake plantain,orchid,rattlesnake plantain,2.87e-07,cat,Plant
+pacific_spiny_dogfish.n.01,spiny_dogfish.n.01,16,6,pacific spiny dogfish,spiny dogfish,pacific spiny dogfish,1.41e-07,edentate,Animal
+penknife.n.01,pocketknife.n.01,13,6,penknife,pocketknife,penknife,1.05e-07,pied lemming,Artifact
+redfish.n.03,salmon.n.01,13,6,redfish,salmon,redfish,1.17e-07,blennioid fish,Animal
+bassoon.n.01,double-reed_instrument.n.01,12,6,bassoon,double-reed instrument,bassoon,3.39e-07,bovid,Artifact
+shrike.n.01,oscine.n.01,12,6,shrike,oscine,shrike,2.45e-07,gempylid,Animal
+european_flatfish.n.01,righteye_flounder.n.01,16,6,european flatfish,righteye flounder,european flatfish,7.76e-08,musteline mammal,Animal
+blue-headed_vireo.n.01,vireo.n.01,13,6,blue-headed vireo,vireo,blue-headed vireo,9.74e-08,soft-finned fish,Animal
+canada_anemone.n.01,anemone.n.01,12,6,canada anemone,anemone,canada anemone,3.62e-07,fruit bat,Plant
+superbug.n.02,sweet-potato_whitefly.n.01,13,6,superbug,sweet-potato whitefly,superbug,1.31e-07,elapid,Animal
+bark-louse.n.01,psocid.n.01,12,6,bark-louse,psocid,bark-louse,3.77e-07,wild plum,Animal
+osteogenesis_imperfecta.n.01,autosomal_dominant_disease.n.01,12,6,osteogenesis imperfecta,autosomal dominant disease,osteogenesis imperfecta,4.73e-08,hominid,Abstraction
+erysipelas.n.01,saint_anthony's_fire.n.01,12,6,erysipelas,saint anthony's fire,erysipelas,4.57e-08,twinflower,Abstraction
+alpha-linolenic_acid.n.01,omega-3_fatty_acid.n.01,13,6,alpha-linolenic acid,omega-3 fatty acid,alpha-linolenic acid,9.69e-08,conifer,Abstraction
+viceroy.n.02,nymphalid.n.01,13,6,viceroy,nymphalid,viceroy,1.2e-06,scombroid,Animal
+crested_coral_root.n.01,orchid.n.01,12,6,crested coral root,orchid,crested coral root,6.69e-07,brahman,Plant
+forehand_drive.n.01,drive.n.12,13,6,forehand drive,drive,forehand drive,4.99e-07,crab,Abstraction
+entomology.n.01,zoology.n.02,12,6,entomology,zoology,entomology,6.46e-07,custard apple,Abstraction
+lancetfish.n.01,soft-finned_fish.n.01,14,6,lancetfish,soft-finned fish,lancetfish,1.16e-06,saint anthony's fire,Animal
+skillet_fish.n.01,clingfish.n.01,16,6,skillet fish,clingfish,skillet fish,1.18e-06,hyena,Animal
+ant_thrush.n.01,antbird.n.01,13,6,ant thrush,antbird,ant thrush,6.18e-07,scombroid,Animal
+anthrax.n.01,zoonosis.n.01,12,6,anthrax,zoonosis,anthrax,1.41e-06,ornithischian,Abstraction
+snowy_orchid.n.01,fringed_orchis.n.01,13,6,snowy orchid,fringed orchis,snowy orchid,1.18e-06,zoonosis,Plant
+clove.n.02,spice_tree.n.01,12,6,clove,spice tree,clove,8.13e-07,sweet-potato whitefly,Plant
+ceratopsian.n.01,ornithischian.n.01,14,6,ceratopsian,ornithischian,ceratopsian,9.24e-07,guidebook,Animal
+celery_blight.n.01,late_blight.n.01,13,6,celery blight,late blight,celery blight,9.49e-07,topmast,Abstraction
+tertiary_syphilis.n.01,syphilis.n.01,14,6,tertiary syphilis,syphilis,tertiary syphilis,9.18e-07,saint anthony's fire,Abstraction
+white_rhinoceros.n.01,rhinoceros.n.01,14,6,white rhinoceros,rhinoceros,white rhinoceros,7.06e-07,old world porcupine,Animal
+herring_gull.n.01,gull.n.02,15,6,herring gull,gull,herring gull,7.51e-07,red deer,Animal
+barracuda.n.01,spiny-finned_fish.n.01,14,6,barracuda,spiny-finned fish,barracuda,6.03e-07,wrasse,Animal
+asbestos_abatement.n.01,abatement_of_a_nuisance.n.01,12,6,asbestos abatement,abatement of a nuisance,asbestos abatement,4.65e-07,culture,Abstraction
+great_white_heron.n.02,egret.n.01,14,6,great white heron,egret,great white heron,1.22e-06,ass,Animal
+spotted_hyena.n.01,hyena.n.01,14,6,spotted hyena,hyena,spotted hyena,6.21e-07,wild cherry,Animal
+cashew.n.01,nut_tree.n.01,12,6,cashew,nut tree,cashew,5.62e-07,spiny-finned fish,Plant
+colter.n.01,wedge.n.06,12,6,colter,wedge,colter,1.38e-06,medicine,Artifact
+thoracic_medicine.n.01,medicine.n.01,12,6,thoracic medicine,medicine,thoracic medicine,1.1e-06,fruit tree,Abstraction
+collar_blight.n.01,blight.n.02,12,6,collar blight,blight,collar blight,1.5e-06,requiem shark,Abstraction
+blue_marlin.n.01,marlin.n.01,18,6,blue marlin,marlin,blue marlin,1.02e-06,proboscidean,Animal
+gander.n.01,goose.n.01,14,6,gander,goose,gander,7.76e-07,megapode,Animal
+scarlet_lychnis.n.01,lychnis.n.01,12,6,scarlet lychnis,lychnis,scarlet lychnis,1.06e-06,jet,Plant
+wildcat.n.03,cat.n.01,14,6,wildcat,cat,wildcat,1.15e-06,intercontinental ballistic missile,Animal
+tautog.n.01,wrasse.n.01,16,6,tautog,wrasse,tautog,3.89e-07,pleurisy,Animal
+anaconda.n.01,boa.n.02,14,6,anaconda,boa,anaconda,9.33e-07,greenling,Animal
+green_smut.n.01,smut.n.02,12,6,green smut,smut,green smut,7.37e-07,scombroid,Abstraction
+snout_beetle.n.01,weevil.n.01,12,6,snout beetle,weevil,snout beetle,8.87e-07,pine,Animal
+clustered_lady's_slipper.n.01,lady's_slipper.n.01,13,6,clustered lady's slipper,lady's slipper,clustered lady's slipper,4.71e-07,orchid,Plant
+brush-tailed_porcupine.n.01,old_world_porcupine.n.01,14,6,brush-tailed porcupine,old world porcupine,brush-tailed porcupine,7.03e-07,mackerel shark,Animal
+highjacking.n.01,robbery.n.01,12,6,highjacking,robbery,highjacking,1.26e-06,holly,Abstraction
+dusky_shark.n.01,requiem_shark.n.01,15,6,dusky shark,requiem shark,dusky shark,6.42e-07,fruit tree,Animal
+porcupinefish.n.01,spiny_puffer.n.01,16,6,porcupinefish,spiny puffer,porcupinefish,7.51e-07,extracapsular surgery,Animal
+almanac.n.02,annual.n.02,12,6,almanac,annual,almanac,1.15e-06,omega-3 fatty acid,Artifact
+prince_albert_yew.n.01,conifer.n.01,12,6,prince albert yew,conifer,prince albert yew,9.9e-07,archosaur,Plant
+eelpout.n.01,blennioid_fish.n.01,16,6,eelpout,blennioid fish,eelpout,6.76e-07,orchid,Animal
+common_american_shad.n.01,shad.n.02,13,6,common american shad,shad,common american shad,6.87e-07,larch,Animal
+common_raccoon.n.01,raccoon.n.02,14,6,common raccoon,raccoon,common raccoon,1.84e-06,turnstone,Animal
+dental_anatomy.n.01,gross_anatomy.n.01,14,6,dental anatomy,gross anatomy,dental anatomy,5.2e-06,rotary engine,Abstraction
+otter.n.02,musteline_mammal.n.01,13,6,otter,musteline mammal,otter,2.34e-06,deposit,Animal
+turbine.n.01,rotary_engine.n.01,13,6,turbine,rotary engine,turbine,4.27e-06,anemone,Artifact
+coco_plum.n.01,fruit_tree.n.01,12,6,coco plum,fruit tree,coco plum,1.96e-06,twinflower,Plant
+swimming_crab.n.01,crab.n.01,12,6,swimming crab,crab,swimming crab,4.74e-06,brahman,Animal
+japanese_umbrella_pine.n.01,conifer.n.01,12,6,japanese umbrella pine,conifer,japanese umbrella pine,4.47e-06,egret,Plant
+nightingale.n.01,thrush.n.03,13,6,nightingale,thrush,nightingale,1.95e-06,ornithischian,Animal
+shuttle_helicopter.n.01,helicopter.n.01,12,6,shuttle helicopter,helicopter,shuttle helicopter,5e-06,zoonosis,Artifact
+lizard.n.01,saurian.n.01,12,6,lizard,saurian,lizard,4.27e-06,sterculia,Animal
+teal.n.02,duck.n.01,14,6,teal,duck,teal,1.78e-06,drive,Animal
+maiden_pink.n.01,pink.n.02,12,6,maiden pink,pink,maiden pink,5.51e-06,archosaur,Plant
+cobra.n.01,elapid.n.01,13,6,cobra,elapid,cobra,3.24e-06,composite,Animal
+pelagic_bird.n.01,seabird.n.01,12,6,pelagic bird,seabird,pelagic bird,2.32e-06,spiny dogfish,Animal
+hind.n.02,red_deer.n.01,16,6,hind,red deer,hind,3.16e-06,rhinoceros,Animal
+painted_greenling.n.01,greenling.n.01,16,6,painted greenling,greenling,painted greenling,3.47e-06,even-toed ungulate,Animal
+meadow_vole.n.01,vole.n.01,14,6,meadow vole,vole,meadow vole,3.33e-06,orchid,Animal
+royal_mast.n.01,topmast.n.01,12,6,royal mast,topmast,royal mast,3.16e-06,limpet,Artifact
+beach_plum.n.01,wild_plum.n.01,14,6,beach plum,wild plum,beach plum,3.4e-06,weasel,Plant
+bearded_seal.n.01,earless_seal.n.01,15,6,bearded seal,earless seal,bearded seal,1.97e-06,marmoset,Animal
+loquat.n.01,fruit_tree.n.01,12,6,loquat,fruit tree,loquat,3.36e-06,meteorological balloon,Plant
+scorpionfish.n.01,scorpaenid.n.01,16,6,scorpionfish,scorpaenid,scorpionfish,2.3e-06,gentian,Animal
+spanish_iris.n.01,beardless_iris.n.01,12,6,spanish iris,beardless iris,spanish iris,5.2e-06,fruit tree,Plant
+kalumpang.n.01,sterculia.n.01,12,6,kalumpang,sterculia,kalumpang,1.83e-06,twinflower,Plant
+swine.n.01,even-toed_ungulate.n.01,13,6,swine,even-toed ungulate,swine,2.88e-06,saurian,Animal
+cargo_liner.n.01,liner.n.04,13,6,cargo liner,liner,cargo liner,4.13e-06,rickettsial disease,Artifact
+gardening.n.01,farming.n.01,12,6,gardening,farming,gardening,4.68e-06,saurian,Abstraction
+vine_maple.n.01,maple.n.02,12,6,vine maple,maple,vine maple,3.08e-06,ornithischian,Plant
+mole_cricket.n.01,cricket.n.01,12,6,mole cricket,cricket,mole cricket,3.93e-06,red ash,Animal
+glutton.n.02,musteline_mammal.n.01,13,6,glutton,musteline mammal,glutton,2.75e-06,oscine,Animal
+ground-shaker.n.01,dinosaur.n.01,13,6,ground-shaker,dinosaur,ground-shaker,1.68e-06,colubrid snake,Animal
+switchblade.n.01,pocketknife.n.01,13,6,switchblade,pocketknife,switchblade,3.66e-06,wild plum,Artifact
+crabeater_seal.n.01,seal.n.09,14,6,crabeater seal,seal,crabeater seal,4.2e-06,vespertilian bat,Animal
+rudd.n.01,cyprinid.n.01,16,6,rudd,cyprinid,rudd,1.7e-06,cavy,Animal
+wapiti.n.01,deer.n.01,15,6,wapiti,deer,wapiti,3.09e-06,zoology,Animal
+silver_perch.n.01,drum.n.06,17,6,silver perch,drum,silver perch,1.89e-06,wordbook,Animal
+common_wasp.n.01,vespid.n.01,13,6,common wasp,vespid,common wasp,2.21e-06,white pine,Animal
+hooded_seal.n.01,earless_seal.n.01,15,6,hooded seal,earless seal,hooded seal,1.74e-06,acanthoma,Animal
+pterosaur.n.01,archosaur.n.01,12,6,pterosaur,archosaur,pterosaur,1.72e-06,bassoon,Animal
+cookie_jar_reserve.n.01,hidden_reserve.n.01,14,6,cookie jar reserve,hidden reserve,cookie jar reserve,4.39e-06,weasel,Abstraction
+german_lesson.n.01,language_lesson.n.01,12,6,german lesson,language lesson,german lesson,2.22e-05,bovid,Abstraction
+laptop.n.01,portable_computer.n.01,12,6,laptop,portable computer,laptop,1.7e-05,elapid,Artifact
+black_cherry.n.01,wild_cherry.n.02,14,6,black cherry,wild cherry,black cherry,1.44e-05,seabird,Plant
+robin.n.02,thrush.n.03,13,6,robin,thrush,robin,2.14e-05,spiny-finned fish,Animal
+purple_emperor.n.01,emperor_butterfly.n.01,14,6,purple emperor,emperor butterfly,purple emperor,9.61e-06,proboscidean,Animal
+elephant.n.01,pachyderm.n.01,12,6,elephant,pachyderm,elephant,1.2e-05,gross anatomy,Animal
+green_ash.n.01,red_ash.n.01,12,6,green ash,red ash,green ash,1.31e-05,scombroid,Plant
+jet.n.01,airplane.n.01,12,6,jet,airplane,jet,1.95e-05,crab,Artifact
+honker.n.03,goose.n.01,14,6,honker,goose,honker,6.44e-06,thrush,Animal
+old_world_buffalo.n.01,bovid.n.01,15,6,old world buffalo,bovid,old world buffalo,1.38e-05,pocketknife,Animal
+wild_horse.n.01,horse.n.01,15,6,wild horse,horse,wild horse,3.01e-05,cricket,Animal
+dark_horse.n.02,racehorse.n.01,16,6,dark horse,racehorse,dark horse,3.77e-05,edentate,Animal
+pilot_whale.n.01,dolphin.n.02,16,6,pilot whale,dolphin,pilot whale,9.24e-06,dinosaur,Animal
+wood-frog.n.01,true_frog.n.01,12,6,wood-frog,true frog,wood-frog,6.88e-06,farming,Animal
+diabetes.n.01,polygenic_disorder.n.01,12,6,diabetes,polygenic disorder,diabetes,1.48e-05,orchid,Abstraction
+american_white_pine.n.01,white_pine.n.01,14,6,american white pine,white pine,american white pine,1.17e-05,goose,Plant
+flying_fox.n.01,fruit_bat.n.01,13,6,flying fox,fruit bat,flying fox,2.42e-05,oscine,Animal
+red_spider.n.01,spider_mite.n.01,13,6,red spider,spider mite,red spider,1.64e-05,thrush,Animal
+black_sheep.n.02,sheep.n.01,16,6,black sheep,sheep,black sheep,1.47e-05,acanthoma,Animal
+repositing.n.01,deposit.n.09,12,6,repositing,deposit,repositing,3.72e-05,vole,Abstraction
+water_buffalo.n.01,old_world_buffalo.n.01,16,6,water buffalo,old world buffalo,water buffalo,1.33e-05,emperor butterfly,Animal
+sand_rat.n.02,gerbil.n.01,13,6,sand rat,gerbil,sand rat,9.62e-06,medicine,Animal
+japanese_maple.n.02,maple.n.02,12,6,japanese maple,maple,japanese maple,6.51e-06,lizard,Plant
+sand_lance.n.01,spiny-finned_fish.n.01,14,6,sand lance,spiny-finned fish,sand lance,6.62e-06,marmoset,Animal
+glass_ceiling.n.01,ceiling.n.03,13,6,glass ceiling,ceiling,glass ceiling,1.25e-05,pleurisy,Abstraction
+bull_snake.n.01,colubrid_snake.n.01,13,6,bull snake,colubrid snake,bull snake,9.56e-06,guidebook,Animal
+tamarin.n.01,marmoset.n.01,15,6,tamarin,marmoset,tamarin,7.07e-06,sweet-potato whitefly,Animal
+little_brown_bat.n.01,vespertilian_bat.n.01,14,6,little brown bat,vespertilian bat,little brown bat,1.62e-05,ass,Animal
+flame_fish.n.01,cardinalfish.n.01,16,6,flame fish,cardinalfish,flame fish,1.02e-05,tundra swan,Animal
+pilot_balloon.n.01,meteorological_balloon.n.01,13,6,pilot balloon,meteorological balloon,pilot balloon,6.41e-06,goose,Artifact
+grey.n.07,saddle_horse.n.01,16,6,grey,saddle horse,grey,3.02e-05,ax,Animal
+whip-snake.n.01,colubrid_snake.n.01,13,6,whip-snake,colubrid snake,whip-snake,6.39e-06,pernicious anemia,Animal
+dictionary.n.01,wordbook.n.01,12,6,dictionary,wordbook,dictionary,1.05e-05,ceiling,Artifact
+great_white_shark.n.01,mackerel_shark.n.01,15,6,great white shark,mackerel shark,great white shark,1.21e-05,righteye flounder,Animal
+gas_range.n.01,stove.n.01,12,6,gas range,stove,gas range,5.76e-05,goose,Artifact
+wild_ass.n.01,ass.n.03,15,6,wild ass,ass,wild ass,3.87e-05,weaver,Animal
+swiss_pine.n.01,pine.n.01,13,6,swiss pine,pine,swiss pine,7.09e-06,pied lemming,Plant
+case_knife.n.02,knife.n.01,12,6,case knife,knife,case knife,2.4e-05,anchovy,Artifact
+homo.n.02,hominid.n.01,13,6,homo,hominid,homo,0.000661,spice tree,Animal
+emergency_medicine.n.01,medicine.n.01,12,6,emergency medicine,medicine,emergency medicine,2.65e-05,orchid,Abstraction
